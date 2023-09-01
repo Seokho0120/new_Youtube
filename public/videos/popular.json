@@ -1,0 +1,1596 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "o5HZ0rGUG1AKSXKnYHPYazuWGEw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "p-syB39Z_TW83dFKyQwV4KKzZ6M",
+      "id": "G0m_uNaSres",
+      "snippet": {
+        "publishedAt": "2023-08-31T14:19:55Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Super Mario Bros. Wonder Direct 8.31.2023",
+        "description": "Check out the Super Mario Bros. Wonder Direct, featuring roughly 15 minutes of information about Super Mario Bros. Wonder! Coming to Nintendo Switch on October 20, 2023.\n \nPre-order today: https://www.nintendo.com/store/products/super-mario-bros-wonder-switch/\n \n#SuperMarioBrosWonder #NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "adventure",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Super Mario Bros. Wonder Direct 8.31.2023",
+          "description": "Check out the Super Mario Bros. Wonder Direct, featuring roughly 15 minutes of information about Super Mario Bros. Wonder! Coming to Nintendo Switch on October 20, 2023.\n \nPre-order today: https://www.nintendo.com/store/products/super-mario-bros-wonder-switch/\n \n#SuperMarioBrosWonder #NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hr9gTTCxovREo1u7T_2RiakMKJ4",
+      "id": "KudedLV0tP0",
+      "snippet": {
+        "publishedAt": "2023-08-31T12:17:49Z",
+        "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+        "title": "TAYLOR SWIFT | THE ERAS TOUR Concert Film Official Trailer",
+        "description": "Get tickets now to see TAYLOR SWIFT | THE ERAS TOUR Concert Film only in theaters in North America beginning 10/13. \n\nhttps://taylor.lnk.to/TSTheErasTourFilmTickets\n\nThe cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!\n\n►Pre-order 1989 (Taylor's Version), out October 27: https://taylor.lnk.to/1989taylorsversion \n►Shop Merch: http://taylorswift.lnk.to/store\n\n►Follow Taylor Swift:\nTikTok: http://tiktok.com/@taylorswift\nInstagram: http://instagram.com/taylorswift  \nTwitter: http://twitter.com/taylorswift13  \nSnapchat: http://snapchat.com/add/taylorswift\nFacebook: http://facebook.com/taylorswift  \nTumblr: http://taylorswift.tumblr.com  \nWebsite: http://www.taylorswift.com  \n\n►Follow Taylor Nation Online\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation  \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com  \n\n#taylorswift",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taylor Swift",
+        "tags": [
+          "the eras tour",
+          "taylor swift",
+          "eras tour",
+          "taylor swift live",
+          "the eras tour stream",
+          "taylor swift concert",
+          "taylor swift tour",
+          "cruel summer"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TAYLOR SWIFT | THE ERAS TOUR Concert Film Official Trailer",
+          "description": "Get tickets now to see TAYLOR SWIFT | THE ERAS TOUR Concert Film only in theaters in North America beginning 10/13. \n\nhttps://taylor.lnk.to/TSTheErasTourFilmTickets\n\nThe cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!\n\n►Pre-order 1989 (Taylor's Version), out October 27: https://taylor.lnk.to/1989taylorsversion \n►Shop Merch: http://taylorswift.lnk.to/store\n\n►Follow Taylor Swift:\nTikTok: http://tiktok.com/@taylorswift\nInstagram: http://instagram.com/taylorswift  \nTwitter: http://twitter.com/taylorswift13  \nSnapchat: http://snapchat.com/add/taylorswift\nFacebook: http://facebook.com/taylorswift  \nTumblr: http://taylorswift.tumblr.com  \nWebsite: http://www.taylorswift.com  \n\n►Follow Taylor Nation Online\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation  \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com  \n\n#taylorswift"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e_iOxqDfr20sNQW9U0_gkGcNcvE",
+      "id": "-vDwN0HDDqw",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:08:41Z",
+        "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
+        "title": "Starfield - Before You Buy",
+        "description": "Starfield (PC, Xbox Series X/S) is the newest game from the creators of Elder Scrolls: Skyrim, Fallout 4, and more. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv ▼\n\nBuy Starfield: https://amzn.to/3L5ZfTk\n \n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6\n\n#starfield",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "gameranx",
+        "tags": [
+          "Starfield",
+          "Starfield game review",
+          "Starfield gameplay",
+          "Starfield before you buy",
+          "before you buy Starfield",
+          "Starfield xbox gameplay",
+          "Starfield pc gameplay",
+          "starfield worlds",
+          "Starfield space travel",
+          "starfield combat",
+          "Starfield story",
+          "Starfield review",
+          "Starfield bugs",
+          "Starfield graphics",
+          "starfield glitches",
+          "Starfield performance",
+          "Gameranx",
+          "Jake Baldino"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Starfield - Before You Buy",
+          "description": "Starfield (PC, Xbox Series X/S) is the newest game from the creators of Elder Scrolls: Skyrim, Fallout 4, and more. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv ▼\n\nBuy Starfield: https://amzn.to/3L5ZfTk\n \n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6\n\n#starfield"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dcK5HcJ-zkLtwpLnnRFG1K9yGyo",
+      "id": "nMMNkfSQuiU",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:00:38Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Starfield Review",
+        "description": "Starfield reviewed on PC and Xbox Series X by Dan Stapleton.\nIt’s never a great sign when someone recommends a game on the grounds that it gets good after more than a dozen hours, but that’s very much the kind of game Starfield is, and I do recommend it. There are a lot of forces working against it, and the combination of disjointed space travel, nonexistent maps, aggravating inventory management, and a slow rollout of essential abilities very nearly did it in. It was the joys piloting a custom spaceship into and out of all sorts of morally ambiguous situations in a rich sci-fi universe that eventually pulled it out of a nosedive. I’m glad that I powered through the early hours, because its interstellar mystery story pays off and, once the ball got rolling, combat on foot and in space gradually became good enough that its momentum carried me into New Game+ after I’d finished the main story after around 60 hours. Like Skryim and Fallout 4 before it, there’s still an immense amount of quality roleplaying quests and interesting NPCs out there, waiting to be stumbled across, and the pull to seek it out is strong.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IGN",
+        "tags": [
+          "Bethesda Game Studios",
+          "Bethesda Softworks",
+          "Creation Engine 2",
+          "New Game+",
+          "Open-World",
+          "PC",
+          "RPG",
+          "Starfield",
+          "Xbox Series X|S",
+          "starfield review",
+          "starfield review ign",
+          "ign review",
+          "ign reviews",
+          "ign",
+          "ign game reviews",
+          "video game reviews",
+          "ign game review",
+          "video game review",
+          "starfield reaction",
+          "starfield impressions"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Starfield Review",
+          "description": "Starfield reviewed on PC and Xbox Series X by Dan Stapleton.\nIt’s never a great sign when someone recommends a game on the grounds that it gets good after more than a dozen hours, but that’s very much the kind of game Starfield is, and I do recommend it. There are a lot of forces working against it, and the combination of disjointed space travel, nonexistent maps, aggravating inventory management, and a slow rollout of essential abilities very nearly did it in. It was the joys piloting a custom spaceship into and out of all sorts of morally ambiguous situations in a rich sci-fi universe that eventually pulled it out of a nosedive. I’m glad that I powered through the early hours, because its interstellar mystery story pays off and, once the ball got rolling, combat on foot and in space gradually became good enough that its momentum carried me into New Game+ after I’d finished the main story after around 60 hours. Like Skryim and Fallout 4 before it, there’s still an immense amount of quality roleplaying quests and interesting NPCs out there, waiting to be stumbled across, and the pull to seek it out is strong."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "enYJPG6sUb0S5o6FSTCNaPEkrww",
+      "id": "5yb2N3pnztU",
+      "snippet": {
+        "publishedAt": "2023-08-31T15:23:49Z",
+        "channelId": "UC14Yc2Qv92DMuyNRlHvpo2Q",
+        "title": "TVアニメ『呪術廻戦』第2期「渋谷事変」ノンクレジットOPムービー／OPテーマ：King Gnu「SPECIALZ」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!",
+        "description": "TVアニメ『呪術廻戦』「懐玉・玉折／渋谷事変」\n毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!\n\n「渋谷事変」OPテーマ：King Gnu「SPECIALZ」\nListen＆DL：kinggnu.lnk.to/atXyso\n-----------------------------------------------\n【イントロダクション】\n\n集英社「週刊少年ジャンプ」で連載中の、\n芥見下々による漫画作品『呪術廻戦』。\n2018年3月から連載が開始され、人間の負の感情から\n生まれる呪いと、それを呪術で祓う呪術師との闘いを描き、\n既刊23巻にしてシリーズ累計発行部数は\n驚異の8,000万部を突破。\n\n2020年10月から2021年3月までは毎日放送・TBS系列にて\nTVアニメ第1期が放送され、国内のみならず全世界で\n大きな反響を呼んだ。\nさらに同年12月24日、第1期の前日譚にあたる物語が描かれる\n『劇場版 呪術廻戦 0』を上映し、全世界で一大ムーブメントを巻き起こした。\n\nそして、2023年に放送が決定している第2期で描かれるのは、\n五条 悟と夏油 傑の高専時代の物語「懐玉・玉折」。\n劇場版にて示唆された五条と夏油の決別した過去がついに明らかとなる。\n\nさらに、連続2クール内にて「懐玉・玉折」の後、\n第1期から続く時間軸の物語「渋谷事変」も描かれることが決定。\n10月31日、ハロウィンで賑わう渋谷駅周辺に\n突如“帳”が下ろされ大勢の一般人が閉じ込められる。\n単独で渋谷平定へと向かう五条だが、\nこれは夏油や真人ら呪詛師・呪霊達による罠だった…。\n虎杖、伏黒、釘崎といった高専生のメンバーや\n呪術師たちも渋谷に集結し、かつてない大規模な戦闘が始まろうしていた。\n\n呪いを廻る壮絶な物語が再び廻りだすー\n\n-----------------------------------------------\n【ストーリー】\n\n最後に笑うのは、人か―呪いか―\n\n「五条 悟は 然るべき時 然るべき場所\nこちらのアドバンテージを確立した上で封印に臨む\n決行は10月31日 渋谷」\n\n2018年10月、特級呪霊による交流会の襲撃以降呪術高専内の緊張が高まる中、\nついに内通者の正体が判明する。\n果たして内通者は誰なのか、その目的とは―!?\n\nそして、2018年10月31日。\nハロウィンで賑わう渋谷駅周辺に突如“帳”が降ろされ大勢の一般人が閉じ込められる。\n“一般人のみが閉じ込められる帳”という高度な結界術に加え、\n一般人を介して告げられた「五条 悟を連れてこい」という指名から、\n上層部は被害を最小限に抑えるために五条単独での渋谷平定を決定する。\n\n罠を仕掛け待ち構える夏油や真人ら呪詛師・呪霊達、そこに単独で乗り込む五条、\nさらには“帳”の外側に集結した虎杖、伏黒、釘崎、七海、そして数多くの呪術師たち。\n\n渋谷に集結した呪術師VS.呪詛師・呪霊の\nかつてない大規模な呪い合いがついに始まる―!!\n\n-----------------------------------------------\n【CAST】\n\n虎杖悠仁：榎木淳弥　\n伏黒 恵：内田雄馬\n釘崎野薔薇：瀬戸麻沙美\n五条 悟：中村悠一\n真人：島﨑信長\n夏油 傑：櫻井孝宏\n両面宿儺：諏訪部順一\n\n-----------------------------------------------\n【STAFF】\n\n原作：「呪術廻戦」芥見下々（集英社「週刊少年ジャンプ」連載）\n監督：御所園翔太\nシリーズ構成・脚本：瀬古浩司\nキャラクターデザイン：平松禎史・小磯沙矢香\n副監督：愛敬亮太\n美術監督：東 潤一\n色彩設計：松島英子\nCGIプロデューサー：淡輪雄介\n3DCGディレクター：石川大輔（モンスターズエッグ）　　\n撮影監督：伊藤哲平\n編集：柳 圭介\n音楽：照井順政\n音響監督：えびなやすのり\n音響制作：dugout\n制作：MAPPA\n\nオープニングテーマ：King Gnu「SPECIALZ」（Sony Music Labels）\nエンディングテーマ：羊文学「more than words」(F.C.L.S.／Sony Music Labels)\n-----------------------------------------------\nTVアニメHP   ：https://jujutsukaisen.jp/\n公式Twitter     ：https://twitter.com/animejujutsu\n\n©芥見下々／集英社・呪術廻戦製作委員会\n-----------------------------------------------\nTOHO animation\n公式Twitter：https://twitter.com/TOHOanimation\n10周年記念特設サイト：https://tohoanimation.jp/10thanniversary\nポータルサイト：https://tohoanimation.jp/portal/\n-----------------------------------------------\nTOHO animation STORE\n通販サイト ：https://tohoanimationstore.com/shop/\n公式Twitter：https://twitter.com/TOHOanimeSTORE\n-----------------------------------------------\n#呪術廻戦 #渋谷事変 #週刊少年ジャンプ #呪術2期",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5yb2N3pnztU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5yb2N3pnztU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5yb2N3pnztU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5yb2N3pnztU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5yb2N3pnztU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TOHO animation チャンネル",
+        "tags": [
+          "東宝",
+          "TOHO",
+          "anime",
+          "公式",
+          "オフィシャル",
+          "アニメ",
+          "Entertainment",
+          "配給",
+          "宣伝",
+          "キャラクター",
+          "声優",
+          "週刊少年ジャンプ",
+          "ジャンプ",
+          "jump",
+          "JUMP",
+          "呪術",
+          "呪術廻戦",
+          "懐玉",
+          "玉折",
+          "懐玉・玉折",
+          "渋谷事変",
+          "五条",
+          "夏油",
+          "五条悟",
+          "夏油傑",
+          "OP",
+          "中村悠一",
+          "櫻井孝宏",
+          "虎杖悠仁",
+          "虎杖",
+          "伏黒恵",
+          "伏黒",
+          "釘崎",
+          "真人",
+          "脹相",
+          "10月31日",
+          "渋谷",
+          "Jujutsukaisen",
+          "jjk",
+          "呪術2期",
+          "榎木淳弥",
+          "内田雄馬",
+          "宿儺",
+          "両面宿儺",
+          "瀬戸麻沙美",
+          "諏訪部順一",
+          "島﨑信長",
+          "KingGnu",
+          "SPECIALZ",
+          "羊文学",
+          "morethanwords"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "TVアニメ『呪術廻戦』第2期「渋谷事変」ノンクレジットOPムービー／OPテーマ：King Gnu「SPECIALZ」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!",
+          "description": "TVアニメ『呪術廻戦』「懐玉・玉折／渋谷事変」\n毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!\n\n「渋谷事変」OPテーマ：King Gnu「SPECIALZ」\nListen＆DL：kinggnu.lnk.to/atXyso\n-----------------------------------------------\n【イントロダクション】\n\n集英社「週刊少年ジャンプ」で連載中の、\n芥見下々による漫画作品『呪術廻戦』。\n2018年3月から連載が開始され、人間の負の感情から\n生まれる呪いと、それを呪術で祓う呪術師との闘いを描き、\n既刊23巻にしてシリーズ累計発行部数は\n驚異の8,000万部を突破。\n\n2020年10月から2021年3月までは毎日放送・TBS系列にて\nTVアニメ第1期が放送され、国内のみならず全世界で\n大きな反響を呼んだ。\nさらに同年12月24日、第1期の前日譚にあたる物語が描かれる\n『劇場版 呪術廻戦 0』を上映し、全世界で一大ムーブメントを巻き起こした。\n\nそして、2023年に放送が決定している第2期で描かれるのは、\n五条 悟と夏油 傑の高専時代の物語「懐玉・玉折」。\n劇場版にて示唆された五条と夏油の決別した過去がついに明らかとなる。\n\nさらに、連続2クール内にて「懐玉・玉折」の後、\n第1期から続く時間軸の物語「渋谷事変」も描かれることが決定。\n10月31日、ハロウィンで賑わう渋谷駅周辺に\n突如“帳”が下ろされ大勢の一般人が閉じ込められる。\n単独で渋谷平定へと向かう五条だが、\nこれは夏油や真人ら呪詛師・呪霊達による罠だった…。\n虎杖、伏黒、釘崎といった高専生のメンバーや\n呪術師たちも渋谷に集結し、かつてない大規模な戦闘が始まろうしていた。\n\n呪いを廻る壮絶な物語が再び廻りだすー\n\n-----------------------------------------------\n【ストーリー】\n\n最後に笑うのは、人か―呪いか―\n\n「五条 悟は 然るべき時 然るべき場所\nこちらのアドバンテージを確立した上で封印に臨む\n決行は10月31日 渋谷」\n\n2018年10月、特級呪霊による交流会の襲撃以降呪術高専内の緊張が高まる中、\nついに内通者の正体が判明する。\n果たして内通者は誰なのか、その目的とは―!?\n\nそして、2018年10月31日。\nハロウィンで賑わう渋谷駅周辺に突如“帳”が降ろされ大勢の一般人が閉じ込められる。\n“一般人のみが閉じ込められる帳”という高度な結界術に加え、\n一般人を介して告げられた「五条 悟を連れてこい」という指名から、\n上層部は被害を最小限に抑えるために五条単独での渋谷平定を決定する。\n\n罠を仕掛け待ち構える夏油や真人ら呪詛師・呪霊達、そこに単独で乗り込む五条、\nさらには“帳”の外側に集結した虎杖、伏黒、釘崎、七海、そして数多くの呪術師たち。\n\n渋谷に集結した呪術師VS.呪詛師・呪霊の\nかつてない大規模な呪い合いがついに始まる―!!\n\n-----------------------------------------------\n【CAST】\n\n虎杖悠仁：榎木淳弥　\n伏黒 恵：内田雄馬\n釘崎野薔薇：瀬戸麻沙美\n五条 悟：中村悠一\n真人：島﨑信長\n夏油 傑：櫻井孝宏\n両面宿儺：諏訪部順一\n\n-----------------------------------------------\n【STAFF】\n\n原作：「呪術廻戦」芥見下々（集英社「週刊少年ジャンプ」連載）\n監督：御所園翔太\nシリーズ構成・脚本：瀬古浩司\nキャラクターデザイン：平松禎史・小磯沙矢香\n副監督：愛敬亮太\n美術監督：東 潤一\n色彩設計：松島英子\nCGIプロデューサー：淡輪雄介\n3DCGディレクター：石川大輔（モンスターズエッグ）　　\n撮影監督：伊藤哲平\n編集：柳 圭介\n音楽：照井順政\n音響監督：えびなやすのり\n音響制作：dugout\n制作：MAPPA\n\nオープニングテーマ：King Gnu「SPECIALZ」（Sony Music Labels）\nエンディングテーマ：羊文学「more than words」(F.C.L.S.／Sony Music Labels)\n-----------------------------------------------\nTVアニメHP   ：https://jujutsukaisen.jp/\n公式Twitter     ：https://twitter.com/animejujutsu\n\n©芥見下々／集英社・呪術廻戦製作委員会\n-----------------------------------------------\nTOHO animation\n公式Twitter：https://twitter.com/TOHOanimation\n10周年記念特設サイト：https://tohoanimation.jp/10thanniversary\nポータルサイト：https://tohoanimation.jp/portal/\n-----------------------------------------------\nTOHO animation STORE\n通販サイト ：https://tohoanimationstore.com/shop/\n公式Twitter：https://twitter.com/TOHOanimeSTORE\n-----------------------------------------------\n#呪術廻戦 #渋谷事変 #週刊少年ジャンプ #呪術2期"
+        },
+        "defaultAudioLanguage": "ja"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6EPGcsKMYq4gpQDe_61_eM3R6Zw",
+      "id": "GMVt8XXMOmc",
+      "snippet": {
+        "publishedAt": "2023-08-31T14:30:56Z",
+        "channelId": "UCUU3GdGuQshZFRGnxAPBf_w",
+        "title": "LEGO, but EVERYTHING is MULTIPLIED...",
+        "description": "I buy over 10 different Lego items in crazy amounts, then challenge myself to make a lego creation with them...\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, announcements: https://www.instagram.com/td_the_creator/\n\n📱TIKTOK: tiktok.com/@td_the_creator\n\n✉️ EMAIL for business: td.brickz@gmail.com\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nBeats from Emix Music: @prodbyemix \nBeat from Emix used in this video: https://www.youtube.com/watch?v=u11116zBt-w\n\nFrequently asked questions:\nWhere do I buy my Lego?\n- Bricklink.com and Lego store pick a brick wall\nDo I have instructions for my Lego builds?\n- No\nWhat software do I use to edit my videos?\n-  Final Cut Pro X\nWhat gear do I use to film/record my videos?\n- Canon EOS R8, RODE VideoMic Go",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GMVt8XXMOmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GMVt8XXMOmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GMVt8XXMOmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GMVt8XXMOmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GMVt8XXMOmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TD BRICKS",
+        "tags": [
+          "Lego",
+          "Lego moc",
+          "Lego creation",
+          "Legos",
+          "Lego set",
+          "Lego meme",
+          "Lego challenge",
+          "Lego multiplied",
+          "Lego minifig",
+          "Lego minifigure",
+          "Lego game",
+          "Lego funny"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "LEGO, but EVERYTHING is MULTIPLIED...",
+          "description": "I buy over 10 different Lego items in crazy amounts, then challenge myself to make a lego creation with them...\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, announcements: https://www.instagram.com/td_the_creator/\n\n📱TIKTOK: tiktok.com/@td_the_creator\n\n✉️ EMAIL for business: td.brickz@gmail.com\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nBeats from Emix Music: @prodbyemix \nBeat from Emix used in this video: https://www.youtube.com/watch?v=u11116zBt-w\n\nFrequently asked questions:\nWhere do I buy my Lego?\n- Bricklink.com and Lego store pick a brick wall\nDo I have instructions for my Lego builds?\n- No\nWhat software do I use to edit my videos?\n-  Final Cut Pro X\nWhat gear do I use to film/record my videos?\n- Canon EOS R8, RODE VideoMic Go"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Uggp4_6cZ8otie9lwQQAyr6Qxwg",
+      "id": "Z_T0o5uNrlY",
+      "snippet": {
+        "publishedAt": "2023-08-30T18:59:15Z",
+        "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+        "title": "Five Nights at Freddy's | Official Trailer 2",
+        "description": "This Halloween, Freddy and the gang are dying to meet you. #FiveNightsAtFreddys - In theaters and streaming on Peacock October 27.\n\nCan you survive five nights? \n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.             \n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nWebsite: https://www.fivenightsatfreddys.movie/\nInstagram: https://www.instagram.com/fnafmovie/?igshid=NTc4MTIwNjQ2YQ%3D%3D\nTwitter: https://twitter.com/FNAFMovie\nFacebook: https://www.facebook.com/FNAFMovie/\nTikTok: https://www.tiktok.com/@universalpics",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z_T0o5uNrlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z_T0o5uNrlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z_T0o5uNrlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z_T0o5uNrlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z_T0o5uNrlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Universal Pictures",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Five Nights at Freddy's | Official Trailer 2",
+          "description": "This Halloween, Freddy and the gang are dying to meet you. #FiveNightsAtFreddys - In theaters and streaming on Peacock October 27.\n\nCan you survive five nights? \n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.             \n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nWebsite: https://www.fivenightsatfreddys.movie/\nInstagram: https://www.instagram.com/fnafmovie/?igshid=NTc4MTIwNjQ2YQ%3D%3D\nTwitter: https://twitter.com/FNAFMovie\nFacebook: https://www.facebook.com/FNAFMovie/\nTikTok: https://www.tiktok.com/@universalpics"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "coVWcBPW6fs_z7ktqNH6R_TAhq0",
+      "id": "hH75fQ3SVO8",
+      "snippet": {
+        "publishedAt": "2023-08-30T17:18:08Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Oliver Anthony on the Unexpected Success and Backlash from \"Rich Men North of Richmond\"",
+        "description": "Taken from JRE #2027 w/Oliver Anthony:\nhttps://open.spotify.com/episode/68AVuziUVdUJhJZkClegOZ?si=3c51168ffc534667",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hH75fQ3SVO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hH75fQ3SVO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hH75fQ3SVO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hH75fQ3SVO8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hH75fQ3SVO8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "tags": [
+          "Joe Rogan Experience",
+          "JRE",
+          "Joe",
+          "Rogan",
+          "podcast",
+          "MMA",
+          "comedy",
+          "stand",
+          "up",
+          "funny",
+          "Freak",
+          "Party"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Oliver Anthony on the Unexpected Success and Backlash from \"Rich Men North of Richmond\"",
+          "description": "Taken from JRE #2027 w/Oliver Anthony:\nhttps://open.spotify.com/episode/68AVuziUVdUJhJZkClegOZ?si=3c51168ffc534667"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TYsZ3qlsnHFmmpkrxYhq6OshXGQ",
+      "id": "CvbK1fsc-yk",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:00:16Z",
+        "channelId": "UCK9_x1DImhU-eolIay5rb2Q",
+        "title": "Starfield Review \"Buy, Wait, Never Touch?\"",
+        "description": "Starfield Review \"Buy, Wait, Never Touch?\"\nStarfield is coming out soon from Bethesda. Thanks to them for the very early review code. Lets see if it was worth it.\nWant to support the channel randomly https://bmc.link/ACGGaming\n🕶  Welcome to what I hope is the best videogame review channel on youtube.\nSubscribe to ACG for video-game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\nWe also do the Best Gaming and Videogame Podcast each friday\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CvbK1fsc-yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CvbK1fsc-yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CvbK1fsc-yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CvbK1fsc-yk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CvbK1fsc-yk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACG",
+        "tags": [
+          "acgreview",
+          "angrycentaurgaming",
+          "gameplay",
+          "ACG",
+          "gaming news",
+          "acg reviews",
+          "video games",
+          "angry review",
+          "acg impressions",
+          "videogame reviews",
+          "videogame review",
+          "game review",
+          "acg review",
+          "games",
+          "gamenews",
+          "reaction",
+          "ign",
+          "steam deck",
+          "react to",
+          "comedy",
+          "podcast",
+          "starfield",
+          "starfield review",
+          "starfield bugs",
+          "starfield impressions",
+          "starfield acg",
+          "starfield gameplay",
+          "starfield trailer",
+          "is starfield good",
+          "best starfield review"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Starfield Review \"Buy, Wait, Never Touch?\"",
+          "description": "Starfield Review \"Buy, Wait, Never Touch?\"\nStarfield is coming out soon from Bethesda. Thanks to them for the very early review code. Lets see if it was worth it.\nWant to support the channel randomly https://bmc.link/ACGGaming\n🕶  Welcome to what I hope is the best videogame review channel on youtube.\nSubscribe to ACG for video-game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\nWe also do the Best Gaming and Videogame Podcast each friday\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7dakfK6mU53H-lsYA___Z7fZ-Uc",
+      "id": "7zM-YaTKN1M",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:00:10Z",
+        "channelId": "UCsKVP_4zQ877TEiH_Ih5yDQ",
+        "title": "Why I got an \"Abortion\"",
+        "description": "This is the story of how I found out I had 1, then 2 fast-growing lumps in my uterus-- and why getting them removed would be considered an \"abortion\" even though I was never pregnant. My experience just scrapes the tip of the iceberg of this very nuanced issue; so many more people have it worse, and I am very very lucky to in a place where I'm able to get a D&C. Our current lawmakers are barring people from accessing the healthcare they need, risking lives over things they don't care to understand, and it makes me sick.\n\nTHE TEAM:\n\nAUDIO EDITOR: Cory\nhttp://instagram.com/morningjoeaudio\n\nSTORYBOARDS:\n\nBelle\nhttp://twitter.com/belleinpastel\n\nLaddi\nhttp://youtube.com/theladdi\n\nTyler\nhttps://www.instagram.com/tylerletson_/\n\nBACKGROUNDS + ASSETS:\n\nOskar\nhttp://twitter.com/oskardraws\nhttp://instagram.com/polaroskar\n\n\nClover\nhttp://twitter.com/cloversandmoss\nhttp://instagram.com/cloversandmoss\n\nNunu\nhttps://twitter.com/NuNuIsTaken\nhttps://www.youtube.com/NuNu91011\n\nANIMATION: \n\nLaddi\nhttp://youtube.com/theladdi\n\nDelaney\nhttps://www.delaneyoldenburgart.com/portfolio\n\nBreeezy\nhttps://instagram.com/breeezy.png\n\nViral\nhttps://www.instagram.com/viral_genesis/\nhttps://www.youtube.com/c/ViralGenesis\n\nAnnika\nhttps://www.youtube.com/channel/UCLpy30I4INA4y3GuiIFpriQ\nhttps://instagram.com/grunkleann\n\nRiah\nhttps://twitter.com/MissRiahArt\nhttps://www.youtube.com/c/MissRiah\n\nPRODUCTION MANAGER: Mel\nhttps://www.instagram.com/monmiimel/\n\nCHANNEL MANAGEMENT: David Seelos\n\nhttps://concurrent.co/\n\n#illymation #mychoice",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7zM-YaTKN1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7zM-YaTKN1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7zM-YaTKN1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7zM-YaTKN1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "illymation",
+        "tags": [
+          "illymation",
+          "illymations",
+          "illyanimation",
+          "illystrations",
+          "storytime animation",
+          "animated storytime",
+          "animation",
+          "illymation real life",
+          "illymation face reveal",
+          "illymation ex",
+          "illymation boyfriend",
+          "illymation abusive boyfriend",
+          "illymation song",
+          "illymation animal crossing",
+          "illymation vidcon",
+          "illymation cat",
+          "illymation luigi",
+          "planned parenthood",
+          "planned parenthood protest",
+          "abortion experience storytime",
+          "d&c procedure",
+          "why i got an abortion"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why I got an \"Abortion\"",
+          "description": "This is the story of how I found out I had 1, then 2 fast-growing lumps in my uterus-- and why getting them removed would be considered an \"abortion\" even though I was never pregnant. My experience just scrapes the tip of the iceberg of this very nuanced issue; so many more people have it worse, and I am very very lucky to in a place where I'm able to get a D&C. Our current lawmakers are barring people from accessing the healthcare they need, risking lives over things they don't care to understand, and it makes me sick.\n\nTHE TEAM:\n\nAUDIO EDITOR: Cory\nhttp://instagram.com/morningjoeaudio\n\nSTORYBOARDS:\n\nBelle\nhttp://twitter.com/belleinpastel\n\nLaddi\nhttp://youtube.com/theladdi\n\nTyler\nhttps://www.instagram.com/tylerletson_/\n\nBACKGROUNDS + ASSETS:\n\nOskar\nhttp://twitter.com/oskardraws\nhttp://instagram.com/polaroskar\n\n\nClover\nhttp://twitter.com/cloversandmoss\nhttp://instagram.com/cloversandmoss\n\nNunu\nhttps://twitter.com/NuNuIsTaken\nhttps://www.youtube.com/NuNu91011\n\nANIMATION: \n\nLaddi\nhttp://youtube.com/theladdi\n\nDelaney\nhttps://www.delaneyoldenburgart.com/portfolio\n\nBreeezy\nhttps://instagram.com/breeezy.png\n\nViral\nhttps://www.instagram.com/viral_genesis/\nhttps://www.youtube.com/c/ViralGenesis\n\nAnnika\nhttps://www.youtube.com/channel/UCLpy30I4INA4y3GuiIFpriQ\nhttps://instagram.com/grunkleann\n\nRiah\nhttps://twitter.com/MissRiahArt\nhttps://www.youtube.com/c/MissRiah\n\nPRODUCTION MANAGER: Mel\nhttps://www.instagram.com/monmiimel/\n\nCHANNEL MANAGEMENT: David Seelos\n\nhttps://concurrent.co/\n\n#illymation #mychoice"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5FFlDUs1cDGannDyIaWOEj5fQGQ",
+      "id": "COv52Qyctws",
+      "snippet": {
+        "publishedAt": "2023-08-31T06:26:09Z",
+        "channelId": "UCjJKg01HAP01xCLVhDmnLhw",
+        "title": "Jawan | Official Hindi Trailer | Shah Rukh Khan | Atlee | Nayanthara | Vijay S | Deepika P | Anirudh",
+        "description": "Brace yourselves as we present to you the action-packed trailer of #Jawan. Directed by Atlee, the film stars Shah Rukh Khan, Vijay Sethupathi, Nayanthara, and Deepika Padukone (in a special appearance). The film is set to release in cinemas on September 7, 2023 - in Hindi, Tamil, and Telugu!\n\nJawan is a high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in society.\n\nStarring Shah Rukh Khan, Nayanthara, Vijay Sethupathi and Deepika Padukone (in a special appearance)\nDirected - Atlee\nProduced - Gauri Khan\nCo-Produced - Gaurav Verma\nMusic - Anirudh\nDop - GK Vishnu\nEditor - Ruben\nProduction Designer - T Muthuraj\nScript consultant - Shridhar Raghavan\nGuest Lyricist - Irshad Kamil\nLyricist - Kumaar\nRap Written & Performed By - Raja Kumari\nScreenplay - Atlee & S. Ramanagirivasan\nDialogues - Sumit Arora\nSound Designer - Kunal Rajan\nChoreography - Farah Khan, Shobi & Lalitha, Vaibhavi Merchant\nCharacter Designer - Preetisheel Singh D'souza\nVfx Supervisor - Harry Hingorani\nVfx Producer - Keitan Yadav\nColorist - Ken Metzker\nCasting By - Mukesh Chhabra Csa\n2nd Unit Director - Kaleeswaran Arumugam\nAssociate Director - Shilpi Kiran\n1st Ad - Manoj Venu \nExecutive Producer - Pratik Rawal\nAssociate Producer - Dharam Soni\nProduction Manager - E. Saravanan\nAction Directors - Spiro Razatos, Anl Arasu, Craig Macrae, Yannick Ben, Kecha Khamphakdee & Sunil Rodrigues\nTrailer House - Newton Prabu & Srihari\n\nFor more updates on Jawan, click on the links below:\n \nhttp://www.twitter.com/RedChilliesEnt\nhttp://www.facebook.com/RedChilliesEnt\nhttp://www.instagram.com/RedChilliesEnt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/COv52Qyctws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/COv52Qyctws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/COv52Qyctws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/COv52Qyctws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/COv52Qyctws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Red Chillies Entertainment",
+        "tags": [
+          "SRK",
+          "Shah rukh khan",
+          "shahruh khan",
+          "Srk movies",
+          "red chillies entertainment"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jawan | Official Hindi Trailer | Shah Rukh Khan | Atlee | Nayanthara | Vijay S | Deepika P | Anirudh",
+          "description": "Brace yourselves as we present to you the action-packed trailer of #Jawan. Directed by Atlee, the film stars Shah Rukh Khan, Vijay Sethupathi, Nayanthara, and Deepika Padukone (in a special appearance). The film is set to release in cinemas on September 7, 2023 - in Hindi, Tamil, and Telugu!\n\nJawan is a high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in society.\n\nStarring Shah Rukh Khan, Nayanthara, Vijay Sethupathi and Deepika Padukone (in a special appearance)\nDirected - Atlee\nProduced - Gauri Khan\nCo-Produced - Gaurav Verma\nMusic - Anirudh\nDop - GK Vishnu\nEditor - Ruben\nProduction Designer - T Muthuraj\nScript consultant - Shridhar Raghavan\nGuest Lyricist - Irshad Kamil\nLyricist - Kumaar\nRap Written & Performed By - Raja Kumari\nScreenplay - Atlee & S. Ramanagirivasan\nDialogues - Sumit Arora\nSound Designer - Kunal Rajan\nChoreography - Farah Khan, Shobi & Lalitha, Vaibhavi Merchant\nCharacter Designer - Preetisheel Singh D'souza\nVfx Supervisor - Harry Hingorani\nVfx Producer - Keitan Yadav\nColorist - Ken Metzker\nCasting By - Mukesh Chhabra Csa\n2nd Unit Director - Kaleeswaran Arumugam\nAssociate Director - Shilpi Kiran\n1st Ad - Manoj Venu \nExecutive Producer - Pratik Rawal\nAssociate Producer - Dharam Soni\nProduction Manager - E. Saravanan\nAction Directors - Spiro Razatos, Anl Arasu, Craig Macrae, Yannick Ben, Kecha Khamphakdee & Sunil Rodrigues\nTrailer House - Newton Prabu & Srihari\n\nFor more updates on Jawan, click on the links below:\n \nhttp://www.twitter.com/RedChilliesEnt\nhttp://www.facebook.com/RedChilliesEnt\nhttp://www.instagram.com/RedChilliesEnt"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "m2rIpoS2YFwJcuVC8R-hPbpmF68",
+      "id": "M4QdZjdb1fU",
+      "snippet": {
+        "publishedAt": "2023-08-31T14:01:02Z",
+        "channelId": "UCYAJjqIukwm4r3GHEpJDhVw",
+        "title": "NBA 2K24 | The City Official Trailer",
+        "description": "The City is all about your basketball career in #NBA2K24 🏙️  \n\n📈 REP is back\n🏀 Streetball side quest rewards\n 🫡 New RISE and ELITE affiliations\n🏝 Beachfront location on New Gen➕ Much more!\n\nGet the full breakdown here 👉 nba.2k.com/2k24/courtside-report/the-city/\n\nPre-order now ➡️  nba.2k.com/2k24/buy/\n\n🎵 Pre-Save Big Sean’s “Precision” from his upcoming album here: https://bigsean.lnk.to/BSP\n\n#SeeYouOnTheCourt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M4QdZjdb1fU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M4QdZjdb1fU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M4QdZjdb1fU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M4QdZjdb1fU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M4QdZjdb1fU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBA 2K",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NBA 2K24 | The City Official Trailer",
+          "description": "The City is all about your basketball career in #NBA2K24 🏙️  \n\n📈 REP is back\n🏀 Streetball side quest rewards\n 🫡 New RISE and ELITE affiliations\n🏝 Beachfront location on New Gen➕ Much more!\n\nGet the full breakdown here 👉 nba.2k.com/2k24/courtside-report/the-city/\n\nPre-order now ➡️  nba.2k.com/2k24/buy/\n\n🎵 Pre-Save Big Sean’s “Precision” from his upcoming album here: https://bigsean.lnk.to/BSP\n\n#SeeYouOnTheCourt"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BUmDDJBYO3j4RuXfeKF6d5KwnaE",
+      "id": "8vpiuB0GW-8",
+      "snippet": {
+        "publishedAt": "2023-08-31T13:40:18Z",
+        "channelId": "UCruQg25yVBppUWjza8AlyZA",
+        "title": "Dallas apartment evicts tenant, throws belongings in dumpster. But it was the wrong unit.",
+        "description": "He came home from work to find everything he owned was accidentally thrown in a dumpster by maintenance. But now, building management says he has no rights to reimbursement. #landlord #dallas #eviction",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8vpiuB0GW-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8vpiuB0GW-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8vpiuB0GW-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8vpiuB0GW-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "FOX 4 Dallas-Fort Worth",
+        "tags": [
+          "news",
+          "on your side",
+          "fox 4 features",
+          "steve noviello",
+          "consumer",
+          "kdfw",
+          "fox 4",
+          "video"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Dallas apartment evicts tenant, throws belongings in dumpster. But it was the wrong unit.",
+          "description": "He came home from work to find everything he owned was accidentally thrown in a dumpster by maintenance. But now, building management says he has no rights to reimbursement. #landlord #dallas #eviction"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7z4YO7C5HRzO3yd0gJY84O9E_dc",
+      "id": "ZjBgEkbnX2I",
+      "snippet": {
+        "publishedAt": "2023-08-31T14:59:55Z",
+        "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "title": "Should Airships Make a Comeback?",
+        "description": "Will we see a new generation of airships roaming our skies? Head to https://www.odoo.com/r/veritasium to start building your own website for free.\n\nIf you’re looking for a molecular modeling kit, try Snatoms – a kit I invented where the atoms snap together magnetically – https://ve42.co/SnatomsV \n\n▀▀▀\nThank you to Eli Dourado for letting us explore the argument he describes in his article: https://ve42.co/Dourado \n\nA huge thank you to Dan Grossman and Nick Allman for their time, help, and expertise.\n\nAlso a massive thank you to those who helped us understand the world of modern airships, and provided valuable feedback - Prof. Barry Prentice, Gennadiy Verba, Prof. \nChristoph Pflaum, Heather Roszczyk, Dr. Casey Handmer, Richard Van Trueren, & Thibault Proux.\n\nWe are also grateful for the collaboration of the companies who are working hard to make this comeback happen - Atlas LTA, Buoyant Aircraft Systems International, Hybrid Air Vehicles, LTA Research, & Flying Whales.\n\n\n▀▀▀\nReferences:\n\nHow Airships Could Overcome a Century of Failure, Bloomberg Originals via YouTube -  https://ve42.co/AirshipsCoF \n\nWhy the Airship May Be the Future of Air Travel, Undecided with Matt Ferrell via YouTube - https://ve42.co/FutureAirships \n\nAirship, Wikipedia - https://ve42.co/AirshipWiki \n\nHandmer, C. (2020). A quick note on airships. Casey Handmer’s Blog - https://ve42.co/Handmer2020  \n\nUNCTAD (2020). Review of Maritime Transport 2020 - https://ve42.co/RMT2020 \n\nNational Transportation Research Center (2023). Freight Analysis Framework Version 5 (FAF5)  - https://ve42.co/FAF5 \n\nHybrid Air Vehicles (2023). HAV  - https://ve42.co/HAV \n\nLTA Research (2023). Lighter Than Air (LTA) Research - https://ve42.co/LTAResearch \n\nOceanSkyCruises (2023). North Pole Expedition - OceanSkyCruises - https://ve42.co/NPExpedition  \n\nFlying Whales (2023). Flying Whales - https://ve42.co/FlyingWhales  \n\nBuoyant Aircraft Systems International (2023). BASI - https://ve42.co/BASI \n\nAtlas LTA (2023). Atlas Electric Airships | Atlas LTA Airships - https://ve42.co/AtlasLTA  \n\nPrentice, B. (2021). Hydrogen gas-fuelled airships could spur development in remote communities. The Conversation - https://ve42.co/HydrogenAirships  \n\nGrossman, D. (2009). The Hindenburg Disaster. Airships - https://ve42.co/Hindenburg1  \n\nHindenburg Disaster, Wikipedia - https://ve42.co/HindenburgWiki \n\nWhat happened to the Hindenburg?, Jared Owen via Youtube - https://ve42.co/Owen2019 \n\nNational Museum of the U.S. Navy. USS Akron (ZRS-4) -  https://ve42.co/USSAkron \n\nUSS Akron, Wikipedia - https://ve42.co/USSAkronWiki  \n\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Amadeo Bee, Anton Ragin, Balkrishna Heroor, Benedikt Heinen, Bernard McGee, Bill Linder, Burt Humburg, Dave Kircher, Diffbot, Evgeny Skvortsov, Gnare, Jesse Brandsoy, John H. Austin, Jr., john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Lee Redden, Marinus Kuivenhoven, Mario Bottion, MaxPal, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, TTST, Ubiquity Ventures\n\n▀▀▀\nWritten by Casper Mebius & Derek Muller\nDirected by Casper Mebius\nEdited by Jack Saxon\nFilmed by Derek Muller, Jamie MacLeod, Han Evans, & Raquel Nuno\nAnimation by Mike Radjabov & Fabio Albertelli\nAdditional video/photos supplied by Getty Images, Pond5, & Envato Elements\nMusic from Epidemic Sound & Pond5\nProduced by Casper Mebius, Derek Muller, & Han Evans\n\n\nMore footage & photos from:\nThermite Rail Welding video by dulevoz via YouTube - https://www.youtube.com/watch?v=rNjosF789X4 \n\nO’Rourke, T. (2016). Chronicle Covers: When the Hindenburg burst into flames. San Francisco Chronicle - https://ve42.co/Hindenburg2 \n\nWind turbine blade transport video by DOLL Fahrzeugbau via YouTube - https://www.youtube.com/watch?v=5aPXuap0LZw \n\nWind turbine blade transport through mountains video by CGTN via Youtube - https://www.youtube.com/watch?v=9dtUrY8_1CM \n\nFormer Airship Hangar by Stefan Kühn -  https://ve42.co/Aerium",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZjBgEkbnX2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZjBgEkbnX2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjBgEkbnX2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZjBgEkbnX2I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZjBgEkbnX2I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veritasium",
+        "tags": [
+          "veritasium",
+          "science",
+          "physics",
+          "airships",
+          "blimps",
+          "blimp",
+          "airship"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Should Airships Make a Comeback?",
+          "description": "Will we see a new generation of airships roaming our skies? Head to https://www.odoo.com/r/veritasium to start building your own website for free.\n\nIf you’re looking for a molecular modeling kit, try Snatoms – a kit I invented where the atoms snap together magnetically – https://ve42.co/SnatomsV \n\n▀▀▀\nThank you to Eli Dourado for letting us explore the argument he describes in his article: https://ve42.co/Dourado \n\nA huge thank you to Dan Grossman and Nick Allman for their time, help, and expertise.\n\nAlso a massive thank you to those who helped us understand the world of modern airships, and provided valuable feedback - Prof. Barry Prentice, Gennadiy Verba, Prof. \nChristoph Pflaum, Heather Roszczyk, Dr. Casey Handmer, Richard Van Trueren, & Thibault Proux.\n\nWe are also grateful for the collaboration of the companies who are working hard to make this comeback happen - Atlas LTA, Buoyant Aircraft Systems International, Hybrid Air Vehicles, LTA Research, & Flying Whales.\n\n\n▀▀▀\nReferences:\n\nHow Airships Could Overcome a Century of Failure, Bloomberg Originals via YouTube -  https://ve42.co/AirshipsCoF \n\nWhy the Airship May Be the Future of Air Travel, Undecided with Matt Ferrell via YouTube - https://ve42.co/FutureAirships \n\nAirship, Wikipedia - https://ve42.co/AirshipWiki \n\nHandmer, C. (2020). A quick note on airships. Casey Handmer’s Blog - https://ve42.co/Handmer2020  \n\nUNCTAD (2020). Review of Maritime Transport 2020 - https://ve42.co/RMT2020 \n\nNational Transportation Research Center (2023). Freight Analysis Framework Version 5 (FAF5)  - https://ve42.co/FAF5 \n\nHybrid Air Vehicles (2023). HAV  - https://ve42.co/HAV \n\nLTA Research (2023). Lighter Than Air (LTA) Research - https://ve42.co/LTAResearch \n\nOceanSkyCruises (2023). North Pole Expedition - OceanSkyCruises - https://ve42.co/NPExpedition  \n\nFlying Whales (2023). Flying Whales - https://ve42.co/FlyingWhales  \n\nBuoyant Aircraft Systems International (2023). BASI - https://ve42.co/BASI \n\nAtlas LTA (2023). Atlas Electric Airships | Atlas LTA Airships - https://ve42.co/AtlasLTA  \n\nPrentice, B. (2021). Hydrogen gas-fuelled airships could spur development in remote communities. The Conversation - https://ve42.co/HydrogenAirships  \n\nGrossman, D. (2009). The Hindenburg Disaster. Airships - https://ve42.co/Hindenburg1  \n\nHindenburg Disaster, Wikipedia - https://ve42.co/HindenburgWiki \n\nWhat happened to the Hindenburg?, Jared Owen via Youtube - https://ve42.co/Owen2019 \n\nNational Museum of the U.S. Navy. USS Akron (ZRS-4) -  https://ve42.co/USSAkron \n\nUSS Akron, Wikipedia - https://ve42.co/USSAkronWiki  \n\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Amadeo Bee, Anton Ragin, Balkrishna Heroor, Benedikt Heinen, Bernard McGee, Bill Linder, Burt Humburg, Dave Kircher, Diffbot, Evgeny Skvortsov, Gnare, Jesse Brandsoy, John H. Austin, Jr., john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Lee Redden, Marinus Kuivenhoven, Mario Bottion, MaxPal, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, TTST, Ubiquity Ventures\n\n▀▀▀\nWritten by Casper Mebius & Derek Muller\nDirected by Casper Mebius\nEdited by Jack Saxon\nFilmed by Derek Muller, Jamie MacLeod, Han Evans, & Raquel Nuno\nAnimation by Mike Radjabov & Fabio Albertelli\nAdditional video/photos supplied by Getty Images, Pond5, & Envato Elements\nMusic from Epidemic Sound & Pond5\nProduced by Casper Mebius, Derek Muller, & Han Evans\n\n\nMore footage & photos from:\nThermite Rail Welding video by dulevoz via YouTube - https://www.youtube.com/watch?v=rNjosF789X4 \n\nO’Rourke, T. (2016). Chronicle Covers: When the Hindenburg burst into flames. San Francisco Chronicle - https://ve42.co/Hindenburg2 \n\nWind turbine blade transport video by DOLL Fahrzeugbau via YouTube - https://www.youtube.com/watch?v=5aPXuap0LZw \n\nWind turbine blade transport through mountains video by CGTN via Youtube - https://www.youtube.com/watch?v=9dtUrY8_1CM \n\nFormer Airship Hangar by Stefan Kühn -  https://ve42.co/Aerium"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lBE-BWHfv87yQaZQezgyJOqC14A",
+      "id": "eZWQ2XNw3SI",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:00:24Z",
+        "channelId": "UCWXCrItCF6ZgXrdozUS-Idw",
+        "title": "Planet Silly: Part Two",
+        "description": "Adopt your Sad Larry today, only for a limited time! ➡️ https://shop.makeship.com/45p50nl\n\nWe revamped our Patreon! Support the channel and receive cool stuff: https://www.patreon.com/cyanide_and_happiness/\n\nMASTER DATER is now available! Get it on Explosm ➡️ https://bit.ly/3VDqVlt or Amazon ➡️ https://amzn.to/3ER7xKX\n\nC&H Video Game - Freakpocalypse Episode 1 is out now! ► http://www.freakpocalypse.com\n\nTrial by Trolley is available NOW on Amazon! ► https://amzn.to/2OMFvHl\n\nExplosm has a new upload schedule! Update your day-planners, wall calendars and sun dials!\nComic Classics are Mondays at 12pm Eastern / 11am Central\nCompilations are Wednesdays (every other week) at 12p Eastern / 11am Central\nCyanide & Happiness Shorts are Thursdays at 12pm Eastern / 11am Central\n\nCyanide & Happiness has a Patreon! Become an Ultra Mega Pal today ► http://bit.ly/cnhpatreon\nJoin us to get behind the scenes video and bonus content  ►  https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw/join\nSubscribe to Explosm!  ► http://bit.ly/13xgq7a\n\nCyanide and Happiness delivers daily comics to your face-hole on http://explosm.net since 2005!\n\nAdditional Music By:\nEpidemic Sound",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eZWQ2XNw3SI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eZWQ2XNw3SI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZWQ2XNw3SI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eZWQ2XNw3SI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eZWQ2XNw3SI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ExplosmEntertainment",
+        "tags": [
+          "satire",
+          "shorts",
+          "c&hshorts",
+          "c&h shorts",
+          "c and h shorts",
+          "cyanide and happiness shorts",
+          "cartoon",
+          "funny",
+          "cyanide",
+          "happiness",
+          "C&H",
+          "cy&h",
+          "cyanide and happiness",
+          "explosm",
+          "exlposm",
+          "cyanide & happiness",
+          "explosm.net",
+          "explosm animated",
+          "explosm comics",
+          "cartoon movies",
+          "animated",
+          "humor",
+          "comedy",
+          "explosmentertainment",
+          "clown",
+          "silly",
+          "monster",
+          "horror",
+          "suspense",
+          "thriller",
+          "loss",
+          "sad",
+          "grief",
+          "plane",
+          "airplane",
+          "planet",
+          "space",
+          "spaceman",
+          "space clown",
+          "handsome",
+          "tricks",
+          "magic",
+          "confusion",
+          "party",
+          "mars",
+          "baloon",
+          "red",
+          "birthday",
+          "birthday part"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Planet Silly: Part Two",
+          "description": "Adopt your Sad Larry today, only for a limited time! ➡️ https://shop.makeship.com/45p50nl\n\nWe revamped our Patreon! Support the channel and receive cool stuff: https://www.patreon.com/cyanide_and_happiness/\n\nMASTER DATER is now available! Get it on Explosm ➡️ https://bit.ly/3VDqVlt or Amazon ➡️ https://amzn.to/3ER7xKX\n\nC&H Video Game - Freakpocalypse Episode 1 is out now! ► http://www.freakpocalypse.com\n\nTrial by Trolley is available NOW on Amazon! ► https://amzn.to/2OMFvHl\n\nExplosm has a new upload schedule! Update your day-planners, wall calendars and sun dials!\nComic Classics are Mondays at 12pm Eastern / 11am Central\nCompilations are Wednesdays (every other week) at 12p Eastern / 11am Central\nCyanide & Happiness Shorts are Thursdays at 12pm Eastern / 11am Central\n\nCyanide & Happiness has a Patreon! Become an Ultra Mega Pal today ► http://bit.ly/cnhpatreon\nJoin us to get behind the scenes video and bonus content  ►  https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw/join\nSubscribe to Explosm!  ► http://bit.ly/13xgq7a\n\nCyanide and Happiness delivers daily comics to your face-hole on http://explosm.net since 2005!\n\nAdditional Music By:\nEpidemic Sound"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RWzAC6hXlNQitwEO0zgKLyYKE5Y",
+      "id": "oXZmHAIvTuw",
+      "snippet": {
+        "publishedAt": "2023-08-31T00:00:30Z",
+        "channelId": "UCaYxyR9mzVlTrOOyZD0XAmA",
+        "title": "Ja'Marr Had an INSANE Debut! Wheel of MUT! Ep. #2",
+        "description": "The council of Madden Youtubers gathered once again, after seeing the historic launch of the Wheel of MUT Madden 24 season opener. They shifted nervously as MMG entered the room, until one member finally spoke up, \"Papa Meags... we beg of you. STOP posting WOM. Our audiences expect far too much of us now, when they put our content side by side. We simply cannot compete.\" MMG could only smile. He stood proudly, and spoke, \"Fear not, my fellow Youtubers. One day, I will retire from the game, and you are free to put out mediocre content as long as you please. But today... is not that day.\" And thus, another S+ tier season of WOM was born. Rejoice, gentlemen. This is only the beginning.\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg\n\nSocial Medias -\n https://twitter.com/papameagzz\n https://www.instagram.com/matthewmeagher\n\nShow love to my AMAZING editors below!\n\nTy - https://www.youtube.com/channel/UCMoI_Mjgnw45coKZL3v5QUQ\nCaz - https://www.youtube.com/Cazeaux\nSevere - https://twitter.com/SevereVFX\n\nMusic: \nChuki makes incredible beats that I use all the time. Check him out here - https://www.youtube.com/user/CHUKImusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oXZmHAIvTuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oXZmHAIvTuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oXZmHAIvTuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oXZmHAIvTuw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oXZmHAIvTuw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MMG",
+        "tags": ["mmg"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Ja'Marr Had an INSANE Debut! Wheel of MUT! Ep. #2",
+          "description": "The council of Madden Youtubers gathered once again, after seeing the historic launch of the Wheel of MUT Madden 24 season opener. They shifted nervously as MMG entered the room, until one member finally spoke up, \"Papa Meags... we beg of you. STOP posting WOM. Our audiences expect far too much of us now, when they put our content side by side. We simply cannot compete.\" MMG could only smile. He stood proudly, and spoke, \"Fear not, my fellow Youtubers. One day, I will retire from the game, and you are free to put out mediocre content as long as you please. But today... is not that day.\" And thus, another S+ tier season of WOM was born. Rejoice, gentlemen. This is only the beginning.\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg\n\nSocial Medias -\n https://twitter.com/papameagzz\n https://www.instagram.com/matthewmeagher\n\nShow love to my AMAZING editors below!\n\nTy - https://www.youtube.com/channel/UCMoI_Mjgnw45coKZL3v5QUQ\nCaz - https://www.youtube.com/Cazeaux\nSevere - https://twitter.com/SevereVFX\n\nMusic: \nChuki makes incredible beats that I use all the time. Check him out here - https://www.youtube.com/user/CHUKImusic"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e9vTOORvcA3aYzBQ5Jx2o796Wzo",
+      "id": "5sbM2Isx17A",
+      "snippet": {
+        "publishedAt": "2023-08-31T15:36:31Z",
+        "channelId": "UCEIwxahdLz7bap-VDs9h35A",
+        "title": "The Golf Ball Paradox",
+        "description": "The first 100 people to use code SCIENCE at the link below will get 60% off of Incogni: https://incogni.com/science\n\nSometimes a golf ball with pop back out of the hole. The physics behind it is quite surprising. Watch it happening in slow motion.\n\nCheck out the Turntable Paradox video here: https://youtu.be/3oM7hX3UUEU\nCheck out the Motion Amplification video here: https://youtu.be/rEoc0YoALt0\nCheck out RDI technologies here: https://rditechnologies.com\nCheck out my Discord server here: https://discord.gg/B6uNzAgshy \n\nHere are the two papers:\nhttps://www.math.tecnico.ulisboa.pt/~jnatar/MG-15/golfer.pdf\nhttps://iopscience.iop.org/article/10.1088/0143-0807/28/2/024 (paywall)\n\nYou can buy my books here:\nhttps://stevemould.com/books\n\nYou can support me on Patreon and get access to the exclusive Discord:\nhttps://www.patreon.com/stevemould\n\njust like these amazing people:\n\nAlex Hackman\nGlenn Sugden\nTj Steyn\nPavel Dubov\nLizzy and Jack\nJeremy Cole\nBrendan Williams\nFrank Hereford\nLukas Biewald\nDamien Szerszinski\nMarshall Fitzpatrick\nHeather Liu\nGrant Hay\nJohn Zelinka\nPaul Warelis\nMatthew Cocke\nNathan Blubaugh\n\n\nTwitter: http://twitter.com/moulds\nInstagram: https://www.instagram.com/stevemouldscience/\nFacebook: https://www.facebook.com/stevemouldscience/\nBuy nerdy maths things: http://mathsgear.co.uk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5sbM2Isx17A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5sbM2Isx17A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5sbM2Isx17A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5sbM2Isx17A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5sbM2Isx17A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Steve Mould",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Golf Ball Paradox",
+          "description": "The first 100 people to use code SCIENCE at the link below will get 60% off of Incogni: https://incogni.com/science\n\nSometimes a golf ball with pop back out of the hole. The physics behind it is quite surprising. Watch it happening in slow motion.\n\nCheck out the Turntable Paradox video here: https://youtu.be/3oM7hX3UUEU\nCheck out the Motion Amplification video here: https://youtu.be/rEoc0YoALt0\nCheck out RDI technologies here: https://rditechnologies.com\nCheck out my Discord server here: https://discord.gg/B6uNzAgshy \n\nHere are the two papers:\nhttps://www.math.tecnico.ulisboa.pt/~jnatar/MG-15/golfer.pdf\nhttps://iopscience.iop.org/article/10.1088/0143-0807/28/2/024 (paywall)\n\nYou can buy my books here:\nhttps://stevemould.com/books\n\nYou can support me on Patreon and get access to the exclusive Discord:\nhttps://www.patreon.com/stevemould\n\njust like these amazing people:\n\nAlex Hackman\nGlenn Sugden\nTj Steyn\nPavel Dubov\nLizzy and Jack\nJeremy Cole\nBrendan Williams\nFrank Hereford\nLukas Biewald\nDamien Szerszinski\nMarshall Fitzpatrick\nHeather Liu\nGrant Hay\nJohn Zelinka\nPaul Warelis\nMatthew Cocke\nNathan Blubaugh\n\n\nTwitter: http://twitter.com/moulds\nInstagram: https://www.instagram.com/stevemouldscience/\nFacebook: https://www.facebook.com/stevemouldscience/\nBuy nerdy maths things: http://mathsgear.co.uk"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XWkZkSC8aLT7ABDSMn_rQ4MiJLs",
+      "id": "3sHHCG1JDL8",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:00:04Z",
+        "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+        "title": "Journey To The Marvels | In Theaters Nov 10",
+        "description": "Follow Carol Danvers aka Captain Marvel on her journey to team up with Captain Monica Rambeau, her alienated niece, and Ms. Marvel, Jersey City’s own teen-age Super Hero. \n\nIn Marvel Studios’ “The Marvels,” Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe as “The Marvels.” \n\nThe film stars Brie Larson, Teyonah Parris, Iman Vellani, Zawe Ashton, Gary Lewis, Seo-Jun Park, Zenobia Shroff, Mohan Kapur, Saagar Shaikh, and Samuel L. Jackson. Nia DaCosta directs, and Kevin Feige is the producer. Louis D’Esposito, Victoria Alonso, Mary Livanos and Matthew Jenkins serve as executive producers. The screenplay is by Nia DaCosta and Megan McDonnell and Elissa Karasik.\n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: \u202ahttps://twitter.com/marvel\nLike Marvel on Facebook: \u202ahttps://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: \u202ahttp://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: \u202ahttp://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3sHHCG1JDL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3sHHCG1JDL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3sHHCG1JDL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3sHHCG1JDL8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3sHHCG1JDL8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marvel Entertainment",
+        "tags": ["marvel", "comics"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Journey To The Marvels | In Theaters Nov 10",
+          "description": "Follow Carol Danvers aka Captain Marvel on her journey to team up with Captain Monica Rambeau, her alienated niece, and Ms. Marvel, Jersey City’s own teen-age Super Hero. \n\nIn Marvel Studios’ “The Marvels,” Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe as “The Marvels.” \n\nThe film stars Brie Larson, Teyonah Parris, Iman Vellani, Zawe Ashton, Gary Lewis, Seo-Jun Park, Zenobia Shroff, Mohan Kapur, Saagar Shaikh, and Samuel L. Jackson. Nia DaCosta directs, and Kevin Feige is the producer. Louis D’Esposito, Victoria Alonso, Mary Livanos and Matthew Jenkins serve as executive producers. The screenplay is by Nia DaCosta and Megan McDonnell and Elissa Karasik.\n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: \u202ahttps://twitter.com/marvel\nLike Marvel on Facebook: \u202ahttps://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: \u202ahttp://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: \u202ahttp://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qMn5RSRELOKJhohtbPnec-_rFWU",
+      "id": "JUmJ3WFfTgg",
+      "snippet": {
+        "publishedAt": "2023-08-30T22:34:11Z",
+        "channelId": "UC2OREBiIbDChxvmDeg30Bsg",
+        "title": "“I wasn’t too happy” Stephen A. Smith speaks on the NEW Undisputed",
+        "description": "On The Stephen A. Smith Show, Smith gives you his renowned point of view, breaking barriers beyond the world of sports, and tackling pertinent issues across entertainment, pop culture, society, business, and politics. Three times a week, you'll hear his LIVE unfiltered opinions on the day's biggest headlines as well as straight-shooting interviews with top celebrities, game-changers, and thought leaders across the societal arena. \n\nThe Stephen A. Smith Show is sure to entertain, inform, and motivate anyone who tunes in.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUmJ3WFfTgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUmJ3WFfTgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUmJ3WFfTgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JUmJ3WFfTgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JUmJ3WFfTgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stephen A. Smith",
+        "tags": [
+          "Stephen A. Smith",
+          "Stephen A",
+          "Stephen A. Smith Podcast",
+          "Know MERCY",
+          "NO MERCY",
+          "FIRST TAKE",
+          "ESPN First Take",
+          "NBA Countdown",
+          "Podcast",
+          "Motivation",
+          "Inspiration",
+          "Stephen A. Smith Cowboys",
+          "stephen a smith",
+          "stephen a. smith",
+          "undisputed"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "“I wasn’t too happy” Stephen A. Smith speaks on the NEW Undisputed",
+          "description": "On The Stephen A. Smith Show, Smith gives you his renowned point of view, breaking barriers beyond the world of sports, and tackling pertinent issues across entertainment, pop culture, society, business, and politics. Three times a week, you'll hear his LIVE unfiltered opinions on the day's biggest headlines as well as straight-shooting interviews with top celebrities, game-changers, and thought leaders across the societal arena. \n\nThe Stephen A. Smith Show is sure to entertain, inform, and motivate anyone who tunes in."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "69ZzXi9tnulO3U-3f2sIQ5Bno-k",
+      "id": "muJ0RPoHqsQ",
+      "snippet": {
+        "publishedAt": "2023-08-31T10:00:43Z",
+        "channelId": "UCvjsnl6wNtVIm0i1sCpN9Uw",
+        "title": "This Video Ends When All Of My Pokemon Are Dead",
+        "description": "https://nordvpn.com/pokemonchallenges\nGet a Huge Discount off NordVPN!\nplus you get an additional month FREE\nUse coupon code: pokemonchallenges\n\n\n\nFollow PokemonChallenges:\nWATCH LIVE: http://www.twitch.tv/pokemonchallenges\nVOD CHANNEL: https://www.youtube.com/c/PokemonChallengesVODS\nDAILY HIGHLIGHT CHANNEL:  https://www.youtube.com/pchaldaily\n\nTWITTER: http://www.twitter.com/pchaltv\nREDDIT: http://www.reddit.com/r/pchaltv\nINSTAGRAM: http://www.instagram.com/pchaltv\nDISCORD: http://www.discord.gg/pchal\n\n--------------------------------\n\nEdited by: https://twitter.com/McWkEditing\n\n\nScript by: https://twitter.com/jackie_peanuts\n\nThumbnail: http://instagram.com/jojochessnoob\n--------------------------------\n\nArt and Animations by: twitter.com/cayiika\nIf you hear music it's probably by: twitter.com/glitchxcity\n\n#pokemon #pokemonchallenges #nuzlocke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/muJ0RPoHqsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/muJ0RPoHqsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/muJ0RPoHqsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/muJ0RPoHqsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/muJ0RPoHqsQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pokémon Challenges",
+        "tags": [
+          "twitch",
+          "games",
+          "pokemon",
+          "gaming",
+          "pokemon challenges",
+          "challenges",
+          "pokemon challenge",
+          "pokemonchallenges",
+          "pchal",
+          "nuzlocke",
+          "pro nuzlocker",
+          "jaiden animations",
+          "smallant",
+          "ludwig"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "This Video Ends When All Of My Pokemon Are Dead",
+          "description": "https://nordvpn.com/pokemonchallenges\nGet a Huge Discount off NordVPN!\nplus you get an additional month FREE\nUse coupon code: pokemonchallenges\n\n\n\nFollow PokemonChallenges:\nWATCH LIVE: http://www.twitch.tv/pokemonchallenges\nVOD CHANNEL: https://www.youtube.com/c/PokemonChallengesVODS\nDAILY HIGHLIGHT CHANNEL:  https://www.youtube.com/pchaldaily\n\nTWITTER: http://www.twitter.com/pchaltv\nREDDIT: http://www.reddit.com/r/pchaltv\nINSTAGRAM: http://www.instagram.com/pchaltv\nDISCORD: http://www.discord.gg/pchal\n\n--------------------------------\n\nEdited by: https://twitter.com/McWkEditing\n\n\nScript by: https://twitter.com/jackie_peanuts\n\nThumbnail: http://instagram.com/jojochessnoob\n--------------------------------\n\nArt and Animations by: twitter.com/cayiika\nIf you hear music it's probably by: twitter.com/glitchxcity\n\n#pokemon #pokemonchallenges #nuzlocke"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WGb2aso89iSd4KEJEXUwQ7SfXCA",
+      "id": "i4NclqJ87QQ",
+      "snippet": {
+        "publishedAt": "2023-08-31T11:57:42Z",
+        "channelId": "UCcT6w3xUyVshyR2_2vrMp1w",
+        "title": "Hurricane Idalia devastation seen across social media",
+        "description": "Tropical Storm Idalia descended on the Carolinas on its way out to the Atlantic Ocean on Thursday, leaving a trail of flooding and destruction throughout the Southeast that stretched back to its landfall as a hurricane in Florida.\n\nRescue and repair efforts continued in the areas the storm passed Wednesday and there was no immediate word on the toll from the ferocious winds and inundating waters, but authorities counted at least one death.\n\nThe storm left as many as a half-million customers without power in Florida and other states at one point as it ripped down power poles and lines. Still, it was far less destructive than feared, providing only glancing blows to Tampa Bay and other more populated areas as it came ashore with 125 mph (201 kph) winds in rural Florida.\n\nThe weakening storm still packed winds of up to 60 mph (96 kph) as it blasted through Georgia and South Carolina on Wednesday evening. It was expected to reach the North Carolina coast Thursday and roll off into the ocean through the weekend.\n\nNorth Carolina Gov. Roy Cooper, who declared a statewide emergency earlier this week as Idalia approached, had warned residents in coastal and eastern inland counties to prepare for heavy rainfall and localized flooding and urged them to stay off roads covered by water.\n\nIn South Carolina, the storm coupled with king tides to send seawater flowing over sand dunes and spilling onto beachfront streets. In Charleston, a surge from Idalia topped the seawall that protects the downtown, sending ankle-deep ocean water into the streets and neighborhoods where horse-drawn carriages pass million-dollar homes and the famous open-air market.\n\nPreliminary data showed the Wednesday evening high tide reached just over 9.2 feet (2.8 meters), more than 3 feet (0.9 meters) above normal and the fifth-highest reading in Charleston Harbor since records were first kept in 1899.\n\nBands from Idalia also brought short-lived tornadoes. One flipped a car in suburban Goose Creek, South Carolina, causing minor injuries, authorities said. No major damage was reported.\n\nAfter traveling across the Gulf of Mexico, Idalia came ashore Wednesday morning near Keaton Beach, pummeling Florida’s remote and lightly populated Big Bend region with powerful winds.\n\nThe area, where the Florida Panhandle curves into the peninsula, saw streets turned into rivers that submerged cars and homes, while the howling winds tore off roofs, snapped tall trees, sent sheet metal flying and shredded homes.\n\n“All hell broke loose,” said Belond Thomas of Perry, a mill town located just inland from the Big Bend region. Thomas fled with her family and some friends to a motel, thinking it would be safer than riding out the storm at home but the roof was torn away and debris showered onto her pregnant daughter, who fortunately wasn’t injured, Thomas said.\n\nNo hurricane-related deaths were officially confirmed in Florida, but the state's highway patrol reported two people killed in separate weather-related crashes just hours before Idalia made landfall.\n\nEven so, Idalia appeared to be far less destructive than first feared. It avoided large urban regions, striking only glancing blows to Tampa Bay and other more populated areas while focusing its fury on the rural Big Bend section.\n\nHowever, damage there was likely to be extensive.\n\nAt Horseshoe Beach in central Big Bend, Jewell Baggett picked through the wreckage and debris of her mother’s destroyed home, finding a few pictures and her mother’s pots and pans.\n\nHer grandfather built the home decades ago and it had survived four previous storms, she said.\n\n“And now it’s gone,” she said. “Nothing left. A few little trinkets here and there.”\n\nBaggett, whose mother had left before the storm hit, said at least five or six other homes also were destroyed.\n\nIn Tallahassee, the power went out well before the center of the storm arrived, but the city avoided a direct hit. A giant oak tree next to the governor’s mansion split in half, covering the yard with debris.\n\nState officials, 5,500 National Guardsman and rescue crews went into search-and-recovery mode, inspecting bridges, clearing toppled trees and looking for anyone in distress. More than 30,000 utility workers gathered to repair downed power lines and poles.\n\nREAD MORE: https://www.wusa9.com/article/news/nation-world/tropical-storm-idalia-north-carolina/507-6ab5b730-ea2a-4c37-93e0-48fc677b55ff",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i4NclqJ87QQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i4NclqJ87QQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4NclqJ87QQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i4NclqJ87QQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i4NclqJ87QQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WUSA9",
+        "tags": [
+          "hurricane idalia",
+          "breaking news",
+          "florida hurricane",
+          "idalia damage",
+          "idalia news",
+          "florida news",
+          "hurricane idalia news",
+          "idalia hurricane",
+          "idalia storm",
+          "tropical storm",
+          "hurricane idalia live",
+          "hurricane idalia storm",
+          "hurricane idalia florida",
+          "hurricane idalia 2023 tampa",
+          "hurricane idalia storm chasers",
+          "hurricane idalia tampa",
+          "breaking news today",
+          "hurricane idalia 2023 live stream tampa",
+          "florida hurricane idalia",
+          "hurricane idalia 2023 live",
+          "florida hurricane 2023",
+          "news",
+          "florida"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hurricane Idalia devastation seen across social media",
+          "description": "Tropical Storm Idalia descended on the Carolinas on its way out to the Atlantic Ocean on Thursday, leaving a trail of flooding and destruction throughout the Southeast that stretched back to its landfall as a hurricane in Florida.\n\nRescue and repair efforts continued in the areas the storm passed Wednesday and there was no immediate word on the toll from the ferocious winds and inundating waters, but authorities counted at least one death.\n\nThe storm left as many as a half-million customers without power in Florida and other states at one point as it ripped down power poles and lines. Still, it was far less destructive than feared, providing only glancing blows to Tampa Bay and other more populated areas as it came ashore with 125 mph (201 kph) winds in rural Florida.\n\nThe weakening storm still packed winds of up to 60 mph (96 kph) as it blasted through Georgia and South Carolina on Wednesday evening. It was expected to reach the North Carolina coast Thursday and roll off into the ocean through the weekend.\n\nNorth Carolina Gov. Roy Cooper, who declared a statewide emergency earlier this week as Idalia approached, had warned residents in coastal and eastern inland counties to prepare for heavy rainfall and localized flooding and urged them to stay off roads covered by water.\n\nIn South Carolina, the storm coupled with king tides to send seawater flowing over sand dunes and spilling onto beachfront streets. In Charleston, a surge from Idalia topped the seawall that protects the downtown, sending ankle-deep ocean water into the streets and neighborhoods where horse-drawn carriages pass million-dollar homes and the famous open-air market.\n\nPreliminary data showed the Wednesday evening high tide reached just over 9.2 feet (2.8 meters), more than 3 feet (0.9 meters) above normal and the fifth-highest reading in Charleston Harbor since records were first kept in 1899.\n\nBands from Idalia also brought short-lived tornadoes. One flipped a car in suburban Goose Creek, South Carolina, causing minor injuries, authorities said. No major damage was reported.\n\nAfter traveling across the Gulf of Mexico, Idalia came ashore Wednesday morning near Keaton Beach, pummeling Florida’s remote and lightly populated Big Bend region with powerful winds.\n\nThe area, where the Florida Panhandle curves into the peninsula, saw streets turned into rivers that submerged cars and homes, while the howling winds tore off roofs, snapped tall trees, sent sheet metal flying and shredded homes.\n\n“All hell broke loose,” said Belond Thomas of Perry, a mill town located just inland from the Big Bend region. Thomas fled with her family and some friends to a motel, thinking it would be safer than riding out the storm at home but the roof was torn away and debris showered onto her pregnant daughter, who fortunately wasn’t injured, Thomas said.\n\nNo hurricane-related deaths were officially confirmed in Florida, but the state's highway patrol reported two people killed in separate weather-related crashes just hours before Idalia made landfall.\n\nEven so, Idalia appeared to be far less destructive than first feared. It avoided large urban regions, striking only glancing blows to Tampa Bay and other more populated areas while focusing its fury on the rural Big Bend section.\n\nHowever, damage there was likely to be extensive.\n\nAt Horseshoe Beach in central Big Bend, Jewell Baggett picked through the wreckage and debris of her mother’s destroyed home, finding a few pictures and her mother’s pots and pans.\n\nHer grandfather built the home decades ago and it had survived four previous storms, she said.\n\n“And now it’s gone,” she said. “Nothing left. A few little trinkets here and there.”\n\nBaggett, whose mother had left before the storm hit, said at least five or six other homes also were destroyed.\n\nIn Tallahassee, the power went out well before the center of the storm arrived, but the city avoided a direct hit. A giant oak tree next to the governor’s mansion split in half, covering the yard with debris.\n\nState officials, 5,500 National Guardsman and rescue crews went into search-and-recovery mode, inspecting bridges, clearing toppled trees and looking for anyone in distress. More than 30,000 utility workers gathered to repair downed power lines and poles.\n\nREAD MORE: https://www.wusa9.com/article/news/nation-world/tropical-storm-idalia-north-carolina/507-6ab5b730-ea2a-4c37-93e0-48fc677b55ff"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rIkqlg1ZiaUEIHToSLfugtK6Vrw",
+      "id": "_871izU8Fpg",
+      "snippet": {
+        "publishedAt": "2023-08-30T23:00:24Z",
+        "channelId": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+        "title": "Street Fighter 6 - A.K.I. Gameplay Trailer",
+        "description": "A.K.I., the maniacal mistress of poison, will slither her way into Fighting Ground, World Tour, and Battle Hub in Street Fighter 6 on September 27. \n\nFeeding off orders from her master, she injects poison into enemies that dare stand within striking distance – all with a smile. You can’t fix her, but she will fix you.\n\nOwners of the Year 1 Character Pass, Deluxe Edition, or Ultimate Edition will automatically get access to A.K.I. when she unlocks. Get a taste of her poison for an hour with a Rental Fighter ticket, which can be obtained in Fighting Passes. \n\nhttps://streetfighter.com/6/\n\n#StreetFighter6 #Capcom #AKI\n\nTwitter: http://www.twitter.com/streetfighter\nInstagram: https://www.instagram.com/streetfightergame/\nFacebook: http://www.facebook.com/streetfighter\nTwitch: http://www.twitch.tv/capcomfighters\nDiscord: https://discord.gg/capcom\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_871izU8Fpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_871izU8Fpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_871izU8Fpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_871izU8Fpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_871izU8Fpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street Fighter",
+        "tags": ["street", "fighter", "capcom", "aki"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Street Fighter 6 - A.K.I. Gameplay Trailer",
+          "description": "A.K.I., the maniacal mistress of poison, will slither her way into Fighting Ground, World Tour, and Battle Hub in Street Fighter 6 on September 27. \n\nFeeding off orders from her master, she injects poison into enemies that dare stand within striking distance – all with a smile. You can’t fix her, but she will fix you.\n\nOwners of the Year 1 Character Pass, Deluxe Edition, or Ultimate Edition will automatically get access to A.K.I. when she unlocks. Get a taste of her poison for an hour with a Rental Fighter ticket, which can be obtained in Fighting Passes. \n\nhttps://streetfighter.com/6/\n\n#StreetFighter6 #Capcom #AKI\n\nTwitter: http://www.twitter.com/streetfighter\nInstagram: https://www.instagram.com/streetfightergame/\nFacebook: http://www.facebook.com/streetfighter\nTwitch: http://www.twitch.tv/capcomfighters\nDiscord: https://discord.gg/capcom\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CqhpuaQ8gPU6xMgmZSQRI1IjmYU",
+      "id": "fR0tqhqM7Yg",
+      "snippet": {
+        "publishedAt": "2023-08-31T15:23:54Z",
+        "channelId": "UC14Yc2Qv92DMuyNRlHvpo2Q",
+        "title": "TVアニメ『呪術廻戦』第2期「渋谷事変」ノンクレジットEDムービー／EDテーマ：羊文学「more than words」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!",
+        "description": "TVアニメ『呪術廻戦』「懐玉・玉折／渋谷事変」\n毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!\n\n「渋谷事変」EDテーマ：羊文学「more than words」\nListen＆DL：fcls.lnk.to/mtw\n-----------------------------------------------\n【イントロダクション】\n\n集英社「週刊少年ジャンプ」で連載中の、\n芥見下々による漫画作品『呪術廻戦』。\n2018年3月から連載が開始され、人間の負の感情から\n生まれる呪いと、それを呪術で祓う呪術師との闘いを描き、\n既刊23巻にしてシリーズ累計発行部数は\n驚異の8,000万部を突破。\n\n2020年10月から2021年3月までは毎日放送・TBS系列にて\nTVアニメ第1期が放送され、国内のみならず全世界で\n大きな反響を呼んだ。\nさらに同年12月24日、第1期の前日譚にあたる物語が描かれる\n『劇場版 呪術廻戦 0』を上映し、全世界で一大ムーブメントを巻き起こした。\n\nそして、2023年に放送が決定している第2期で描かれるのは、\n五条 悟と夏油 傑の高専時代の物語「懐玉・玉折」。\n劇場版にて示唆された五条と夏油の決別した過去がついに明らかとなる。\n\nさらに、連続2クール内にて「懐玉・玉折」の後、\n第1期から続く時間軸の物語「渋谷事変」も描かれることが決定。\n10月31日、ハロウィンで賑わう渋谷駅周辺に\n突如“帳”が下ろされ大勢の一般人が閉じ込められる。\n単独で渋谷平定へと向かう五条だが、\nこれは夏油や真人ら呪詛師・呪霊達による罠だった…。\n虎杖、伏黒、釘崎といった高専生のメンバーや\n呪術師たちも渋谷に集結し、かつてない大規模な戦闘が始まろうしていた。\n\n呪いを廻る壮絶な物語が再び廻りだすー\n\n-----------------------------------------------\n【ストーリー】\n\n最後に笑うのは、人か―呪いか―\n\n「五条 悟は 然るべき時 然るべき場所\nこちらのアドバンテージを確立した上で封印に臨む\n決行は10月31日 渋谷」\n\n2018年10月、特級呪霊による交流会の襲撃以降呪術高専内の緊張が高まる中、\nついに内通者の正体が判明する。\n果たして内通者は誰なのか、その目的とは―!?\n\nそして、2018年10月31日。\nハロウィンで賑わう渋谷駅周辺に突如“帳”が降ろされ大勢の一般人が閉じ込められる。\n“一般人のみが閉じ込められる帳”という高度な結界術に加え、\n一般人を介して告げられた「五条 悟を連れてこい」という指名から、\n上層部は被害を最小限に抑えるために五条単独での渋谷平定を決定する。\n\n罠を仕掛け待ち構える夏油や真人ら呪詛師・呪霊達、そこに単独で乗り込む五条、\nさらには“帳”の外側に集結した虎杖、伏黒、釘崎、七海、そして数多くの呪術師たち。\n\n渋谷に集結した呪術師VS.呪詛師・呪霊の\nかつてない大規模な呪い合いがついに始まる―!!\n\n-----------------------------------------------\n【CAST】\n\n虎杖悠仁：榎木淳弥　\n伏黒 恵：内田雄馬\n釘崎野薔薇：瀬戸麻沙美\n五条 悟：中村悠一\n真人：島﨑信長\n夏油 傑：櫻井孝宏\n両面宿儺：諏訪部順一\n\n-----------------------------------------------\n【STAFF】\n\n原作：「呪術廻戦」芥見下々（集英社「週刊少年ジャンプ」連載）\n監督：御所園翔太\nシリーズ構成・脚本：瀬古浩司\nキャラクターデザイン：平松禎史・小磯沙矢香\n副監督：愛敬亮太\n美術監督：東 潤一\n色彩設計：松島英子\nCGIプロデューサー：淡輪雄介\n3DCGディレクター：石川大輔（モンスターズエッグ）　　\n撮影監督：伊藤哲平\n編集：柳 圭介\n音楽：照井順政\n音響監督：えびなやすのり\n音響制作：dugout\n制作：MAPPA\n\nオープニングテーマ：King Gnu「SPECIALZ」（Sony Music Labels）\nエンディングテーマ：羊文学「more than words」(F.C.L.S.／Sony Music Labels)\n\n-----------------------------------------------\nTVアニメHP   ：https://jujutsukaisen.jp/\n公式Twitter     ：https://twitter.com/animejujutsu\n\n©芥見下々／集英社・呪術廻戦製作委員会\n-----------------------------------------------\nTOHO animation\n公式Twitter：https://twitter.com/TOHOanimation\n10周年記念特設サイト：https://tohoanimation.jp/10thanniversary\nポータルサイト：https://tohoanimation.jp/portal/\n-----------------------------------------------\nTOHO animation STORE\n通販サイト ：https://tohoanimationstore.com/shop/\n公式Twitter：https://twitter.com/TOHOanimeSTORE\n-----------------------------------------------\n#呪術廻戦 #渋谷事変 #週刊少年ジャンプ #呪術2期",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fR0tqhqM7Yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fR0tqhqM7Yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fR0tqhqM7Yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fR0tqhqM7Yg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fR0tqhqM7Yg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TOHO animation チャンネル",
+        "tags": [
+          "東宝",
+          "TOHO",
+          "anime",
+          "公式",
+          "オフィシャル",
+          "アニメ",
+          "Entertainment",
+          "配給",
+          "宣伝",
+          "キャラクター",
+          "声優",
+          "週刊少年ジャンプ",
+          "ジャンプ",
+          "jump",
+          "JUMP",
+          "呪術",
+          "呪術廻戦",
+          "懐玉",
+          "玉折",
+          "懐玉・玉折",
+          "渋谷事変",
+          "五条",
+          "夏油",
+          "五条悟",
+          "夏油傑",
+          "OP",
+          "中村悠一",
+          "櫻井孝宏",
+          "虎杖悠仁",
+          "虎杖",
+          "伏黒恵",
+          "伏黒",
+          "釘崎",
+          "真人",
+          "脹相",
+          "10月31日",
+          "渋谷",
+          "Jujutsukaisen",
+          "jjk",
+          "呪術2期",
+          "榎木淳弥",
+          "内田雄馬",
+          "宿儺",
+          "両面宿儺",
+          "瀬戸麻沙美",
+          "諏訪部順一",
+          "島﨑信長",
+          "KingGnu",
+          "SPECIALZ",
+          "羊文学",
+          "morethanwords"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "TVアニメ『呪術廻戦』第2期「渋谷事変」ノンクレジットEDムービー／EDテーマ：羊文学「more than words」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!",
+          "description": "TVアニメ『呪術廻戦』「懐玉・玉折／渋谷事変」\n毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!\n\n「渋谷事変」EDテーマ：羊文学「more than words」\nListen＆DL：fcls.lnk.to/mtw\n-----------------------------------------------\n【イントロダクション】\n\n集英社「週刊少年ジャンプ」で連載中の、\n芥見下々による漫画作品『呪術廻戦』。\n2018年3月から連載が開始され、人間の負の感情から\n生まれる呪いと、それを呪術で祓う呪術師との闘いを描き、\n既刊23巻にしてシリーズ累計発行部数は\n驚異の8,000万部を突破。\n\n2020年10月から2021年3月までは毎日放送・TBS系列にて\nTVアニメ第1期が放送され、国内のみならず全世界で\n大きな反響を呼んだ。\nさらに同年12月24日、第1期の前日譚にあたる物語が描かれる\n『劇場版 呪術廻戦 0』を上映し、全世界で一大ムーブメントを巻き起こした。\n\nそして、2023年に放送が決定している第2期で描かれるのは、\n五条 悟と夏油 傑の高専時代の物語「懐玉・玉折」。\n劇場版にて示唆された五条と夏油の決別した過去がついに明らかとなる。\n\nさらに、連続2クール内にて「懐玉・玉折」の後、\n第1期から続く時間軸の物語「渋谷事変」も描かれることが決定。\n10月31日、ハロウィンで賑わう渋谷駅周辺に\n突如“帳”が下ろされ大勢の一般人が閉じ込められる。\n単独で渋谷平定へと向かう五条だが、\nこれは夏油や真人ら呪詛師・呪霊達による罠だった…。\n虎杖、伏黒、釘崎といった高専生のメンバーや\n呪術師たちも渋谷に集結し、かつてない大規模な戦闘が始まろうしていた。\n\n呪いを廻る壮絶な物語が再び廻りだすー\n\n-----------------------------------------------\n【ストーリー】\n\n最後に笑うのは、人か―呪いか―\n\n「五条 悟は 然るべき時 然るべき場所\nこちらのアドバンテージを確立した上で封印に臨む\n決行は10月31日 渋谷」\n\n2018年10月、特級呪霊による交流会の襲撃以降呪術高専内の緊張が高まる中、\nついに内通者の正体が判明する。\n果たして内通者は誰なのか、その目的とは―!?\n\nそして、2018年10月31日。\nハロウィンで賑わう渋谷駅周辺に突如“帳”が降ろされ大勢の一般人が閉じ込められる。\n“一般人のみが閉じ込められる帳”という高度な結界術に加え、\n一般人を介して告げられた「五条 悟を連れてこい」という指名から、\n上層部は被害を最小限に抑えるために五条単独での渋谷平定を決定する。\n\n罠を仕掛け待ち構える夏油や真人ら呪詛師・呪霊達、そこに単独で乗り込む五条、\nさらには“帳”の外側に集結した虎杖、伏黒、釘崎、七海、そして数多くの呪術師たち。\n\n渋谷に集結した呪術師VS.呪詛師・呪霊の\nかつてない大規模な呪い合いがついに始まる―!!\n\n-----------------------------------------------\n【CAST】\n\n虎杖悠仁：榎木淳弥　\n伏黒 恵：内田雄馬\n釘崎野薔薇：瀬戸麻沙美\n五条 悟：中村悠一\n真人：島﨑信長\n夏油 傑：櫻井孝宏\n両面宿儺：諏訪部順一\n\n-----------------------------------------------\n【STAFF】\n\n原作：「呪術廻戦」芥見下々（集英社「週刊少年ジャンプ」連載）\n監督：御所園翔太\nシリーズ構成・脚本：瀬古浩司\nキャラクターデザイン：平松禎史・小磯沙矢香\n副監督：愛敬亮太\n美術監督：東 潤一\n色彩設計：松島英子\nCGIプロデューサー：淡輪雄介\n3DCGディレクター：石川大輔（モンスターズエッグ）　　\n撮影監督：伊藤哲平\n編集：柳 圭介\n音楽：照井順政\n音響監督：えびなやすのり\n音響制作：dugout\n制作：MAPPA\n\nオープニングテーマ：King Gnu「SPECIALZ」（Sony Music Labels）\nエンディングテーマ：羊文学「more than words」(F.C.L.S.／Sony Music Labels)\n\n-----------------------------------------------\nTVアニメHP   ：https://jujutsukaisen.jp/\n公式Twitter     ：https://twitter.com/animejujutsu\n\n©芥見下々／集英社・呪術廻戦製作委員会\n-----------------------------------------------\nTOHO animation\n公式Twitter：https://twitter.com/TOHOanimation\n10周年記念特設サイト：https://tohoanimation.jp/10thanniversary\nポータルサイト：https://tohoanimation.jp/portal/\n-----------------------------------------------\nTOHO animation STORE\n通販サイト ：https://tohoanimationstore.com/shop/\n公式Twitter：https://twitter.com/TOHOanimeSTORE\n-----------------------------------------------\n#呪術廻戦 #渋谷事変 #週刊少年ジャンプ #呪術2期"
+        },
+        "defaultAudioLanguage": "ja"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UWHw7dYCa5OMN1pRi799e3A8jUs",
+      "id": "Gwz_wb99WFk",
+      "snippet": {
+        "publishedAt": "2023-08-31T00:52:58Z",
+        "channelId": "UCU2PacFf99vhb3hNiYDmxww",
+        "title": "Chelsea 2-1 AFC Wimbledon | EXTENDED Highlights | Carabao Cup 2nd Round 2023/24",
+        "description": "Highlights of Chelsea's 2-1 Carabao Cup Second Round win against AFC Wimbledon at Stamford Bridge. Goals from Noni Madueke (45+1') and Enzo Fernandez (72').\n\nSubscribe to our channel here: https://www.youtube.com/chelseafc?sub_confirmation=1\n\n---\n\nGoals/timings\n\n0:00 Intro/teams\n1:37 James Tilley Goal 19' (0-1)\n4:31 Noni Madueke Goal 45+1' (1-1)\n6:03 Enzo Fernandez Goal 72' (2-1)\n\n---\n\n#Chelsea #ChelseaFC #Football #Soccer #Highlights #ExtendedHighlights #Chelseawimbledon #ChelseaVafcwimbledon #AFCwimbledon #wimbledon #Highlights #FootballHighlights #carabaocup \n\n---\n\nRECOMMENDED PLAYLISTS: \n\nExtended highlights: https://www.youtube.com/playlist?list=PLx6bGx4zt6EmVmETTXeFaDB9lJmffrYj9 \n\n2 minute highlights: https://www.youtube.com/playlist?list=PLx6bGx4zt6EmPriltuUixZVJGJxnVT3ZB \n\nPress conferences: https://www.youtube.com/playlist?list=PLx6bGx4zt6EmSoTHXQZUjw0sXqAAZiVqt \n\nPost match reactions: https://www.youtube.com/playlist?list=PLx6bGx4zt6ElEuVFW6koF5JRfGAiLnh8Y \n\nMatchday Unseen: https://www.youtube.com/playlist?list=PLx6bGx4zt6EljsDAbBW80yl4Wf3ZzIbGk \n\n---\n\nDownload Chelsea FC's official mobile app for EXCLUSIVE content: \nhttp://che.lc/5thstand\n\nFor all the latest updates, team news and launches, visit:\nhttp://che.lc/YTwebsite\n\n---\nABOUT CHELSEA FOOTBALL CLUB \n\nFounded in 1905, Chelsea Football Club is an English professional football club based in Fulham, West London with Stamford Bridge as the home of the club. Competing in the Premier League - the top division of English football, the club has had many successes, winning five Premier League titles. The club won their first major honour, the League championship in 1955, followed by the FA Cup in 1970, their first European honour, the Cup Winners' Cup in 1971, and became the third English club to win the Club World Cup in 2022. \n\nAs the Pride of London, Chelsea FC is one of the most success clubs in terms of overall trophies won. They are the only club to have won all three major European competitions twice and have taken the crown domestically, winning six league titles, eight FA Cups, five League Cups, and four FA Community Shields. Internationally, Chelsea have won the UEFA Champions League, the UEFA Europa League, the UEFA Cup Winners' Cup and the UEFA Super Cup twice each, and the FIFA Club World Cup once since their inception.\n\nThe Chelsea YouTube channel provides access to all the build-up, training and behind-the-scenes moments and matchday action along with all the unseen edits and player focus from Reece James, Thiago Silva and Enzo Fernandez to Sam Kerr, Fran Kirby and many more. It’s the only channel where you’ll get an authentic look at this great club including memorable nights with world-class heroes such as Peter Osgood, Gianfranco Zola, Frank Lampard, John Terry, Didier Drogba & Eden Hazard.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gwz_wb99WFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gwz_wb99WFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gwz_wb99WFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gwz_wb99WFk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gwz_wb99WFk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chelsea Football Club",
+        "tags": [
+          "chelsea",
+          "chelsea fc",
+          "fc chelsea",
+          "cfc",
+          "chelsea football club",
+          "football",
+          "soccer",
+          "sport",
+          "chelsea tv",
+          "carabao cup 2023-24",
+          "chelsea 2-1 afc wimbledon",
+          "chelsea highlights",
+          "carabao cup highlights",
+          "carabao cup second round",
+          "enzo fernandez first goal for chelsea",
+          "enzo fernandez goal v afc wimbledon",
+          "noni madueke goal v afc wimbledon",
+          "stamford bridge"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Chelsea 2-1 AFC Wimbledon | EXTENDED Highlights | Carabao Cup 2nd Round 2023/24",
+          "description": "Highlights of Chelsea's 2-1 Carabao Cup Second Round win against AFC Wimbledon at Stamford Bridge. Goals from Noni Madueke (45+1') and Enzo Fernandez (72').\n\nSubscribe to our channel here: https://www.youtube.com/chelseafc?sub_confirmation=1\n\n---\n\nGoals/timings\n\n0:00 Intro/teams\n1:37 James Tilley Goal 19' (0-1)\n4:31 Noni Madueke Goal 45+1' (1-1)\n6:03 Enzo Fernandez Goal 72' (2-1)\n\n---\n\n#Chelsea #ChelseaFC #Football #Soccer #Highlights #ExtendedHighlights #Chelseawimbledon #ChelseaVafcwimbledon #AFCwimbledon #wimbledon #Highlights #FootballHighlights #carabaocup \n\n---\n\nRECOMMENDED PLAYLISTS: \n\nExtended highlights: https://www.youtube.com/playlist?list=PLx6bGx4zt6EmVmETTXeFaDB9lJmffrYj9 \n\n2 minute highlights: https://www.youtube.com/playlist?list=PLx6bGx4zt6EmPriltuUixZVJGJxnVT3ZB \n\nPress conferences: https://www.youtube.com/playlist?list=PLx6bGx4zt6EmSoTHXQZUjw0sXqAAZiVqt \n\nPost match reactions: https://www.youtube.com/playlist?list=PLx6bGx4zt6ElEuVFW6koF5JRfGAiLnh8Y \n\nMatchday Unseen: https://www.youtube.com/playlist?list=PLx6bGx4zt6EljsDAbBW80yl4Wf3ZzIbGk \n\n---\n\nDownload Chelsea FC's official mobile app for EXCLUSIVE content: \nhttp://che.lc/5thstand\n\nFor all the latest updates, team news and launches, visit:\nhttp://che.lc/YTwebsite\n\n---\nABOUT CHELSEA FOOTBALL CLUB \n\nFounded in 1905, Chelsea Football Club is an English professional football club based in Fulham, West London with Stamford Bridge as the home of the club. Competing in the Premier League - the top division of English football, the club has had many successes, winning five Premier League titles. The club won their first major honour, the League championship in 1955, followed by the FA Cup in 1970, their first European honour, the Cup Winners' Cup in 1971, and became the third English club to win the Club World Cup in 2022. \n\nAs the Pride of London, Chelsea FC is one of the most success clubs in terms of overall trophies won. They are the only club to have won all three major European competitions twice and have taken the crown domestically, winning six league titles, eight FA Cups, five League Cups, and four FA Community Shields. Internationally, Chelsea have won the UEFA Champions League, the UEFA Europa League, the UEFA Cup Winners' Cup and the UEFA Super Cup twice each, and the FIFA Club World Cup once since their inception.\n\nThe Chelsea YouTube channel provides access to all the build-up, training and behind-the-scenes moments and matchday action along with all the unseen edits and player focus from Reece James, Thiago Silva and Enzo Fernandez to Sam Kerr, Fran Kirby and many more. It’s the only channel where you’ll get an authentic look at this great club including memorable nights with world-class heroes such as Peter Osgood, Gianfranco Zola, Frank Lampard, John Terry, Didier Drogba & Eden Hazard."
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7lMSVRtt0ZhWqao6zXUbpTJdmNg",
+      "id": "jHCsauMyJk0",
+      "snippet": {
+        "publishedAt": "2023-08-30T17:01:12Z",
+        "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+        "title": "Our Flag Means Death Season 2 | Official Teaser | Max",
+        "description": "OUR FLAG MEANS DEATH is based (very) loosely on the true adventures of 18th century would-be pirate Stede Bonnet (Rhys Darby). After trading the seemingly charmed life of a gentleman for one of a swashbuckling buccaneer, Stede became captain of the pirate ship Revenge. Struggling to earn the respect of his potentially mutinous crew, Stede’s fortunes changed after a fateful run-in with the infamous Captain Blackbeard (Taika Waititi). To their surprise, the wildly different Stede and Blackbeard found more than friendship on the high seas…they found love. Now, they have to survive it.\n\nSeason 2 of OUR FLAG MEANS DEATH premieres October 5, only on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/YouTube\n\nGET MAX\nhttps://streamonm.ax/Max\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jHCsauMyJk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jHCsauMyJk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jHCsauMyJk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jHCsauMyJk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jHCsauMyJk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Max",
+        "tags": [
+          "max",
+          "hbo max",
+          "hbo",
+          "max originals",
+          "max streaming",
+          "max service",
+          "max app",
+          "max videos",
+          "max trailer",
+          "max teaser",
+          "max clip",
+          "hbo originals",
+          "ofmd",
+          "our flag means death",
+          "taika waititi",
+          "rhys darby",
+          "our flag means death season 2",
+          "new season",
+          "ofmd s2",
+          "blackbeard",
+          "stede bonnet",
+          "vico",
+          "ortiz",
+          "jim",
+          "joel fry",
+          "our flag means death max"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Our Flag Means Death Season 2 | Official Teaser | Max",
+          "description": "OUR FLAG MEANS DEATH is based (very) loosely on the true adventures of 18th century would-be pirate Stede Bonnet (Rhys Darby). After trading the seemingly charmed life of a gentleman for one of a swashbuckling buccaneer, Stede became captain of the pirate ship Revenge. Struggling to earn the respect of his potentially mutinous crew, Stede’s fortunes changed after a fateful run-in with the infamous Captain Blackbeard (Taika Waititi). To their surprise, the wildly different Stede and Blackbeard found more than friendship on the high seas…they found love. Now, they have to survive it.\n\nSeason 2 of OUR FLAG MEANS DEATH premieres October 5, only on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/YouTube\n\nGET MAX\nhttps://streamonm.ax/Max\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
