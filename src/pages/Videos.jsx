@@ -5,28 +5,39 @@ import VideoCard from '../components/VideoCard';
 import Youtube, { search } from '../api/youtube';
 import FakeYoutube from '../api/fakeyoutube';
 import useYoutube from '../hooks/useYoutube';
+import { useYoutubeApi } from '../Context/YoutubeApiContext';
 
 function Videos() {
   const { keyword } = useParams();
   const { search } = useYoutube();
+  const { youtube } = useYoutubeApi();
 
+  // hooks 사용
+  // const {
+  //   isLoading,
+  //   error,
+  //   data: videos,
+  // } = useQuery(['videos', keyword], () => {
+  //   return search(keyword);
+  // });
+
+  // ContextApi 사용
   const {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', keyword], () => {
-    return search(keyword);
-  });
+  } = useQuery(['videos', keyword], () => youtube.search(keyword));
 
-  //  const {
-  //    isLoading,
-  //    error,
-  //    data: videos,
-  //  } = useQuery(['videos', keyword], () => {
-  //    const youtube = new Youtube();
-  //    const youtube = new FakeYoutube();
-  //    return youtube.search(keyword);
-  //  });
+  // Class 사용
+  // const {
+  //   isLoading,
+  //   error,
+  //   data: videos,
+  // } = useQuery(['videos', keyword], () => {
+  //   // const youtube = new Youtube();
+  //   const youtube = new FakeYoutube();
+  //   return youtube.search(keyword);
+  // });
 
   return (
     <>
