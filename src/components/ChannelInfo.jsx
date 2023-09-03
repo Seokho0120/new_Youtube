@@ -4,8 +4,11 @@ import { useQuery } from '@tanstack/react-query';
 
 function ChannelInfo({ name, id }) {
   const { youtube } = useYoutubeApi();
-  const { data: url } = useQuery(['channel', id], () =>
-    youtube.channelImageURL(id)
+  const { data: url } = useQuery(
+    ['channel', id],
+    () => youtube.channelImageURL(id),
+    { staleTime: 1000 * 60 * 5 }
+    // 이미지는 자주 바꾸지 않는 데이터이기 때문에 staleTime 5분으로 설정
   );
 
   return (
