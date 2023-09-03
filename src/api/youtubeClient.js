@@ -15,4 +15,8 @@ export default class YoutubeClient {
   async videos(parmas) {
     return this.httpClient.get('videos', parmas);
   }
+
+  async channels(parmas) {
+    return this.httpClient.get('videos', parmas);
+  }
 }
