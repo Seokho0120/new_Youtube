@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 function VideoCard({ video, type }) {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const navigate = useNavigate();
-  const { isList } = type === 'list';
+  const isList = type === 'list';
 
   return (
     <li

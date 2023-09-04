@@ -30,6 +30,7 @@ function VideoDetail(props) {
       </article>
 
       <section className='basis-2/6'>
+        <RelatedVideos id={channelId} />
         {/* <RelatedVideos id={video.id} /> */}
       </section>
     </section>

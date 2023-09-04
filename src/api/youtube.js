@@ -43,6 +43,22 @@ export default class Youtube {
       );
   }
 
+  async channelPlaylists(id) {
+    return this.apiClient
+      .playlists({
+        params: {
+          part: 'snippet',
+          maxResults: 25,
+          channelId: id,
+        },
+      })
+      .then(
+        (res) =>
+          res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
+        // (res) => console.log('res', res)
+      );
+  }
+
   async #mostPopular() {
     return this.apiClient
       .videos({
