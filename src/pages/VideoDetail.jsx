@@ -8,7 +8,6 @@ function VideoDetail(props) {
     state: { video },
   } = useLocation();
   const { title, channelId, channelTitle, description } = video.snippet;
-  console.log('channelId', channelId);
 
   return (
     <section className='flex flex-col lg:flex-row'>
@@ -18,8 +17,7 @@ function VideoDetail(props) {
           type='text/html'
           width='100%'
           height='640'
-          src={`http://www.youtube.com/embed/${video.id}`}
-          frameBorder='0'
+          src={`https://www.youtube.com/embed/${video.id}`}
           title={title}
         />
         <div className='p-8'>
@@ -31,7 +29,6 @@ function VideoDetail(props) {
 
       <section className='basis-2/6'>
         <RelatedVideos id={channelId} />
-        {/* <RelatedVideos id={video.id} /> */}
       </section>
     </section>
   );
